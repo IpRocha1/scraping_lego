@@ -42,7 +42,7 @@ class legoStore:
                     "Nome": data['Product:sp-'+id+'.items({\"filter\":\"ALL\"}).0']['nameComplete'],
                     "ID": data['Product:sp-'+id+'.items({\"filter\":\"ALL\"}).0']['complementName'],
                     "Num Pecas": num_pecas,
-                    "Preço": data['$Product:sp-'+id+'.priceRange.sellingPrice']['lowPrice']
+                    "Preco": data['$Product:sp-'+id+'.priceRange.sellingPrice']['lowPrice']
                 }
                 self.resultados.append(resultado)     
     
