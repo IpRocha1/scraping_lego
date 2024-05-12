@@ -7,10 +7,10 @@ import math
 import re
 import time
 
-class amazonBrasil:
+class AmazonBrasil:
     
     def __init__(self, qtdItens):
-        self.resultados = []
+        self.legos = []
         self.qtdItens = qtdItens
         
     # Busca no site da Amazon Brasil
@@ -35,7 +35,6 @@ class amazonBrasil:
         ultima_pagina = math.ceil(int(self.qtdItens)/24)
         
         for i in range(1, ultima_pagina + 1):
-            print(i)
             url = f"https://www.amazon.com.br/s?k=lego&i=toys&rh=n%3A16194299011%2Cp_89%3ALEGO&page={i}"
             
             browser.get(url)
@@ -51,7 +50,7 @@ class amazonBrasil:
             padrao_id_inicio = r'(\d+) LEGO ([\w\s,]+?) (\d+) peças?'
                     
             for produto in produtos:
-                if len(self.resultados) >= self.qtdItens:
+                if len(self.legos) >= self.qtdItens:
                     break
                 
                 # Extrair informacoes do produto
@@ -102,24 +101,27 @@ class amazonBrasil:
                     # print(nome)
                 
                 lego = {
+                    "Vendedor": 'Amazon Brasil',
                     "Nome": nome,
                     "ID": id_produto,
                     "Num Pecas": quantidade_pecas,
                     "Preco": preco
                 }
                 
-                self.resultados.append(lego)
+                self.legos.append(lego)
         
             # Simular rolagem da pagina
             time.sleep(10)
         
         browser.quit()
         
+        # print(len(self.legos))
+        # Escrever os resultados no JSON
         with open("legos_amazon_brasil.json", "w", encoding="utf-8") as arquivo_json:
-            json.dump(self.resultados, arquivo_json, ensure_ascii=False, indent=4)
+            json.dump(self.legos, arquivo_json, ensure_ascii=False, indent=4)
     
 # Quantidade de itens
 qtd_itens = 1100
 
-captura = amazonBrasil(qtd_itens)
+captura = AmazonBrasil(qtd_itens)
 captura.scraping_amazon_brasil()

@@ -2,10 +2,10 @@ import os
 import json
 import re
 
-class legoStore:
+class LegoStore:
     
     def __init__(self):
-        self.resultados = []
+        self.legos = []
 
     def captura_produtos(self):
         
@@ -39,18 +39,19 @@ class legoStore:
                     num_pecas = None
                     
                 resultado = {
+                    "Vendedor": 'lego Store Brasil',
                     "Nome": data['Product:sp-'+id+'.items({\"filter\":\"ALL\"}).0']['nameComplete'],
                     "ID": data['Product:sp-'+id+'.items({\"filter\":\"ALL\"}).0']['complementName'],
                     "Num Pecas": num_pecas,
                     "Preco": data['$Product:sp-'+id+'.priceRange.sellingPrice']['lowPrice']
                 }
-                self.resultados.append(resultado)     
+                self.legos.append(resultado)     
     
-        print(len(self.resultados))
-         # Escrever os resultados no JSON
+        # print(len(self.legos))
+        # Escrever os resultados no JSON
         with open("legos_lego_store_brasil.json", "w", encoding="utf-8") as arquivo_json:
-            json.dump(self.resultados, arquivo_json, ensure_ascii=False, indent=4)
+            json.dump(self.legos, arquivo_json, ensure_ascii=False, indent=4)
 
         
-captura = legoStore()
+captura = LegoStore()
 captura.captura_produtos()    
