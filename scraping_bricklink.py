@@ -102,10 +102,8 @@ class BrickLink:
                         
                         # Extrair a substring entre "BRL" e "("
                         preco_id = preco_r[inicioPpreco + len("BRL"):fimPpreco].strip()
-                        try:
-                            preco = float(preco_id)
-                        except ValueError:
-                            preco = None
+                        preco = float(preco_id.replace(',', ''))
+
                         
                         # print(num_id[:-2], num_peca[:-6], vendedor, nome, preco)
                         

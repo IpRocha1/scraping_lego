@@ -1,1 +1,5616 @@
-[]
+[
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "'Up' House​",
+        "ID": "43217-1",
+        "Num Pecas": "589",
+        "Preco": 450.0
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "'Up' House​",
+        "ID": "43217-1",
+        "Num Pecas": "589",
+        "Preco": 499.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "'Up' House​",
+        "ID": "43217-1",
+        "Num Pecas": "589",
+        "Preco": 503.99
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "'Where are my Pants?' Guy, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-13",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "'Where are my Pants?' Guy, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-13",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "4 Privet Drive",
+        "ID": "75968-1",
+        "Num Pecas": "774",
+        "Preco": 719.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "4 x 4 Crawler Exclusive Edition",
+        "ID": "41999-1",
+        "Num Pecas": "1584",
+        "Preco": 3599.99
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "6 Duplo Bricks polybag",
+        "ID": "40297-1",
+        "Num Pecas": "6",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "007 Aston Martin DB5",
+        "ID": "76911-1",
+        "Num Pecas": "294",
+        "Preco": 225.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "90 Years of Cars polybag",
+        "ID": "30510-1",
+        "Num Pecas": "71",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "1-Up Mushroom, Super Mario, Series 3 (Complete Set)",
+        "ID": "char03-1",
+        "Num Pecas": "11",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "1985 Audi Sport quattro S1",
+        "ID": "76897-1",
+        "Num Pecas": "246",
+        "Preco": 295.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "1989 Batmobile",
+        "ID": "76139-1",
+        "Num Pecas": "3294",
+        "Preco": 4260.00
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "4x4 Off-Roader Adventures",
+        "ID": "60387-1",
+        "Num Pecas": "243",
+        "Preco": 229.9
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "501st Clone Troopers Battle Pack",
+        "ID": "75345-1",
+        "Num Pecas": "102",
+        "Preco": 150.0
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "501st Clone Troopers Battle Pack",
+        "ID": "75345-1",
+        "Num Pecas": "102",
+        "Preco": 189.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "80s Musician, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-14",
+        "Num Pecas": "2",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Abraham Lincoln, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-5",
+        "Num Pecas": "2",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Adorable Dogs",
+        "ID": "31137-1",
+        "Num Pecas": "475",
+        "Preco": 200.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Gone Golfin' President Business, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-12",
+        "Num Pecas": "2",
+        "Preco": 19.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Gone Golfin' President Business, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-12",
+        "Num Pecas": "2",
+        "Preco": 24.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Gone Golfin' President Business, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-12",
+        "Num Pecas": "2",
+        "Preco": 24.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Gone Golfin' President Business, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-12",
+        "Num Pecas": "2",
+        "Preco": 24.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Gone Golfin' President Business, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-12",
+        "Num Pecas": "2",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Gone Golfin' President Business, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-12",
+        "Num Pecas": "2",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Gonzo, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-4",
+        "Num Pecas": "2",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Gonzo, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-4",
+        "Num Pecas": "2",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Gonzo, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-4",
+        "Num Pecas": "2",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Gorilla Suit Guy, Series 3 (Complete Set with Stand and Accessories)",
+        "ID": "col03-12",
+        "Num Pecas": "2",
+        "Preco": 175.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Graduate, Series 5 (Complete Set with Stand and Accessories)",
+        "ID": "col05-1",
+        "Num Pecas": "2",
+        "Preco": 99.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Green Baseplate {Plate Included is Bright Green}",
+        "ID": "11023-1",
+        "Num Pecas": "",
+        "Preco": 79.99
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Green Dragon Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-12",
+        "Num Pecas": "",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Green Dragon Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-12",
+        "Num Pecas": "",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Green Dragon Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-12",
+        "Num Pecas": "",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Green Dragon Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-12",
+        "Num Pecas": "",
+        "Preco": 42.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Green Dragon Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-12",
+        "Num Pecas": "",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Griphook, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-6",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Griphook, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-6",
+        "Num Pecas": "3",
+        "Preco": 42.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Griphook, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-6",
+        "Num Pecas": "3",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Grocery Store",
+        "ID": "60347-1",
+        "Num Pecas": "384",
+        "Preco": 664.99
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Groundskeeper Willie, The Simpsons, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colsim2-13",
+        "Num Pecas": "2",
+        "Preco": 26.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Groundskeeper Willie, The Simpsons, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colsim2-13",
+        "Num Pecas": "2",
+        "Preco": 27.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Groundskeeper Willie, The Simpsons, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colsim2-13",
+        "Num Pecas": "2",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hades, Disney, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coldis2-13",
+        "Num Pecas": "3",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Hades, Disney, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coldis2-13",
+        "Num Pecas": "3",
+        "Preco": 47.25
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Hanzo vs. Genji",
+        "ID": "75971-1",
+        "Num Pecas": "181",
+        "Preco": 450.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hard Hat Emmet, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-3",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Hard Hat Emmet, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-3",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Hard Hat Emmet, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-3",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Harpy, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-9",
+        "Num Pecas": "3",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Harpy, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-9",
+        "Num Pecas": "3",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Harpy, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-9",
+        "Num Pecas": "3",
+        "Preco": 42.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Harpy, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-9",
+        "Num Pecas": "3",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Harry Potter & Hermione Granger",
+        "ID": "76393-1",
+        "Num Pecas": "1673",
+        "Preco": 1079.10
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Harry Potter and Hedwig: Owl Delivery polybag",
+        "ID": "30420-1",
+        "Num Pecas": "27",
+        "Preco": 77.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Harry Potter in School Robes, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-1",
+        "Num Pecas": "3",
+        "Preco": 54.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Harry Potter, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-1",
+        "Num Pecas": "5",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Harry, Hermione, Ron & Hagrid",
+        "ID": "40495-1",
+        "Num Pecas": "466",
+        "Preco": 399.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Hawkeye, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-6",
+        "Num Pecas": "5",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Hawkeye, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-6",
+        "Num Pecas": "5",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Headmaster Albus Dumbledore, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-2",
+        "Num Pecas": "3",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Heartlake City Movie Theater",
+        "ID": "41448-1",
+        "Num Pecas": "439",
+        "Preco": 300.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Heartlake Downtown Diner",
+        "ID": "41728-1",
+        "Num Pecas": "334",
+        "Preco": 200.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Heavy Duty Excavator",
+        "ID": "42121-1",
+        "Num Pecas": "569",
+        "Preco": 332.49
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hedwig",
+        "ID": "75979-1",
+        "Num Pecas": "626",
+        "Preco": 379.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Hermione Granger, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-3",
+        "Num Pecas": "3",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hermione Granger, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-3",
+        "Num Pecas": "3",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Hermione Granger, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-3",
+        "Num Pecas": "3",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Hidden Sword polybag",
+        "ID": "30086-1",
+        "Num Pecas": "35",
+        "Preco": 160.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Himeji Castle",
+        "ID": "21060-1",
+        "Num Pecas": "2125",
+        "Preco": 1499.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hippie, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-11",
+        "Num Pecas": "3",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Hogwarts Accessories Pack",
+        "ID": "41808-1",
+        "Num Pecas": "234",
+        "Preco": 139.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Astronomy Tower",
+        "ID": "75969-1",
+        "Num Pecas": "938",
+        "Preco": 899.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Astronomy Tower",
+        "ID": "75969-1",
+        "Num Pecas": "938",
+        "Preco": 949.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Hogwarts Carriage and Thestrals",
+        "ID": "76400-1",
+        "Num Pecas": "113",
+        "Preco": 230.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Clock Tower",
+        "ID": "75948-1",
+        "Num Pecas": "888",
+        "Preco": 854.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Express",
+        "ID": "75955-1",
+        "Num Pecas": "776",
+        "Preco": 899.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Hogwarts Express",
+        "ID": "75955-1",
+        "Num Pecas": "776",
+        "Preco": 1240.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Express - Collectors' Edition",
+        "ID": "76405-1",
+        "Num Pecas": "5046",
+        "Preco": 4589.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Moment: Charms Class",
+        "ID": "76385-1",
+        "Num Pecas": "244",
+        "Preco": 269.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Moment: Defence Against the Dark Arts Class",
+        "ID": "76397-1",
+        "Num Pecas": "244",
+        "Preco": 284.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Moment: Divination Class",
+        "ID": "76396-1",
+        "Num Pecas": "285",
+        "Preco": 269.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Moment: Herbology Class",
+        "ID": "76384-1",
+        "Num Pecas": "219",
+        "Preco": 269.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Moment: Potions Class",
+        "ID": "76383-1",
+        "Num Pecas": "259",
+        "Preco": 269.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Moment: Transfiguration Class",
+        "ID": "76382-1",
+        "Num Pecas": "229",
+        "Preco": 269.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hogwarts Room of Requirement",
+        "ID": "75966-1",
+        "Num Pecas": "173",
+        "Preco": 189.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Hogwarts Students blister pack",
+        "ID": "40419-1",
+        "Num Pecas": "37",
+        "Preco": 78.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Holiday Camper Van",
+        "ID": "60283-1",
+        "Num Pecas": "179",
+        "Preco": 179.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Holiday Elf, Series 11 (Complete Set with Stand and Accessories)",
+        "ID": "col11-7",
+        "Num Pecas": "4",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Holiday Elf, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-5",
+        "Num Pecas": "6",
+        "Preco": 37.5
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Holiday Elf, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-5",
+        "Num Pecas": "6",
+        "Preco": 37.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Holiday Elf, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-5",
+        "Num Pecas": "6",
+        "Preco": 44.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Horse and Groom, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-5",
+        "Num Pecas": "4",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Horse and Groom, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-5",
+        "Num Pecas": "4",
+        "Preco": 40.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Horse and Groom, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-5",
+        "Num Pecas": "4",
+        "Preco": 42.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Horse and Groom, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-5",
+        "Num Pecas": "4",
+        "Preco": 65.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Hospital",
+        "ID": "7892-1",
+        "Num Pecas": "365",
+        "Preco": 748.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Hot Dog Vendor, Series 17 (Complete Set with Stand and Accessories)",
+        "ID": "col17-6",
+        "Num Pecas": "5",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hoth AT-ST",
+        "ID": "75322-1",
+        "Num Pecas": "528",
+        "Preco": 569.99
+    },
+    {
+        "Vendedor": "Minas Brick",
+        "Nome": "Houses of the World 1",
+        "ID": "40583-1",
+        "Num Pecas": "348",
+        "Preco": 302.98
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Hugo Strange, The LEGO Batman Movie, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm2-4",
+        "Num Pecas": "3",
+        "Preco": 49.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hugo Strange, The LEGO Batman Movie, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm2-4",
+        "Num Pecas": "3",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hula Lula, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-7",
+        "Num Pecas": "3",
+        "Preco": 19.99
+    },
+    {
+        "Vendedor": "CABrinquedos",
+        "Nome": "Hula Lula, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-7",
+        "Num Pecas": "3",
+        "Preco": 22.97
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Hula Lula, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-7",
+        "Num Pecas": "3",
+        "Preco": 23.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hula Lula, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-7",
+        "Num Pecas": "3",
+        "Preco": 24.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Hula Lula, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-7",
+        "Num Pecas": "3",
+        "Preco": 30.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Hula Lula, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-7",
+        "Num Pecas": "3",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Hulkbuster",
+        "ID": "76210-1",
+        "Num Pecas": "4045",
+        "Preco": 3999.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Iceklaw foil pack",
+        "ID": "LOC391505-1",
+        "Num Pecas": "3",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Imperial Light Cruiser",
+        "ID": "75315-1",
+        "Num Pecas": "1311",
+        "Preco": 1424.99
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Imperial Patrol Battle Pack",
+        "ID": "75207-1",
+        "Num Pecas": "83",
+        "Preco": 299.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Imperial Shuttle",
+        "ID": "75302-1",
+        "Num Pecas": "646",
+        "Preco": 699.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Imperial Snowtrooper foil pack",
+        "ID": "911726-1",
+        "Num Pecas": "",
+        "Preco": 59.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Imperial TIE Fighter",
+        "ID": "75300-1",
+        "Num Pecas": "421",
+        "Preco": 379.99
+    },
+    {
+        "Vendedor": "e.Leal.br's Bricks",
+        "Nome": "Introducing Queen Watevra Wa'Nabi",
+        "ID": "70824-1",
+        "Num Pecas": "62",
+        "Preco": 58.41
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Iron Man Armory",
+        "ID": "76167-1",
+        "Num Pecas": "219",
+        "Preco": 478.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Iron Man Armory",
+        "ID": "76216-1",
+        "Num Pecas": "442",
+        "Preco": 809.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Iron Man Mech",
+        "ID": "76140-1",
+        "Num Pecas": "144",
+        "Preco": 119.99
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Iron Man Mech",
+        "ID": "76140-1",
+        "Num Pecas": "144",
+        "Preco": 179.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Iron Man Mech",
+        "ID": "76140-1",
+        "Num Pecas": "144",
+        "Preco": 340.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Iron Man vs. Fighting Drone polybag",
+        "ID": "30167-1",
+        "Num Pecas": "17",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Itchy, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-13",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "J.B. foil pack",
+        "ID": "792006-1",
+        "Num Pecas": "5",
+        "Preco": 45.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Jacob Kowalski, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-19",
+        "Num Pecas": "5",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Janice, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-12",
+        "Num Pecas": "2",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Janice, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-12",
+        "Num Pecas": "2",
+        "Preco": 37.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Janice, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-12",
+        "Num Pecas": "2",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Janitor, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-9",
+        "Num Pecas": "3",
+        "Preco": 34.5
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Janitor, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-9",
+        "Num Pecas": "3",
+        "Preco": 36.99
+    },
+    {
+        "Vendedor": "013 Bricks",
+        "Nome": "Janitor, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-9",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Janitor, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-9",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Janitor, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-9",
+        "Num Pecas": "3",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Jay - Dragon Master",
+        "ID": "70646-1",
+        "Num Pecas": "87",
+        "Preco": 99.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Jay foil pack #10",
+        "ID": "892289-1",
+        "Num Pecas": "7",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Jay's Golden Dragon Motorbike",
+        "ID": "71768-1",
+        "Num Pecas": "121",
+        "Preco": 365.5
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Jay's Lightning Jet EVO",
+        "ID": "71784-1",
+        "Num Pecas": "142",
+        "Preco": 68.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Jay’s Thunder Dragon EVO",
+        "ID": "71760-1",
+        "Num Pecas": "124",
+        "Preco": 159.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Jazz Quartet",
+        "ID": "21334-1",
+        "Num Pecas": "1606",
+        "Preco": 899.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Jewel Thief, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-15",
+        "Num Pecas": "4",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Jewel Thief, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-15",
+        "Num Pecas": "4",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Jewel Thief, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-15",
+        "Num Pecas": "4",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Jiminy Cricket, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-3",
+        "Num Pecas": "2",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Jiminy Cricket, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-3",
+        "Num Pecas": "2",
+        "Preco": 39.5
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Jiminy Cricket, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-3",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "John Deere 9620R 4WD Tractor",
+        "ID": "42136-1",
+        "Num Pecas": "390",
+        "Preco": 295.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Joker, DC Super Heroes (Complete Set with Stand and Accessories)",
+        "ID": "colsh-13",
+        "Num Pecas": "7",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Jor-El, The LEGO Batman Movie, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm2-16",
+        "Num Pecas": "2",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Julian's Birthday Party",
+        "ID": "77046-1",
+        "Num Pecas": "166",
+        "Preco": 125.9
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Jumping Snakes polybag",
+        "ID": "30085-1",
+        "Num Pecas": "38",
+        "Preco": 160.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Jungle Boy, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-10",
+        "Num Pecas": "3",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Jurassic Park: T. rex Rampage",
+        "ID": "75936-1",
+        "Num Pecas": "3096",
+        "Preco": 3134.99
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Kai - Dragon Master",
+        "ID": "70647-1",
+        "Num Pecas": "87",
+        "Preco": 99.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Kai and Rapton's Temple Battle polybag",
+        "ID": "30650-1",
+        "Num Pecas": "37",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Kai and Rapton's Temple Battle polybag",
+        "ID": "30650-1",
+        "Num Pecas": "37",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Kai's Mini Dragon polybag",
+        "ID": "30422-1",
+        "Num Pecas": "35",
+        "Preco": 160.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Karate Master, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-14",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Karate Master, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-14",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Kate Bishop, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-7",
+        "Num Pecas": "6",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Kate Bishop, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-7",
+        "Num Pecas": "6",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Kate Bishop, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-7",
+        "Num Pecas": "6",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Kendo Cole polybag",
+        "ID": "9551-1",
+        "Num Pecas": "18",
+        "Preco": 160.0
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Kendo Fighter, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-12",
+        "Num Pecas": "3",
+        "Preco": 36.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Kendo Fighter, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-12",
+        "Num Pecas": "3",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Kickboxer, Series 16 (Complete Set with Stand and Accessories)",
+        "ID": "col16-8",
+        "Num Pecas": "3",
+        "Preco": 32.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Killer Moth, The LEGO Batman Movie, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm2-12",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Killer Moth, The LEGO Batman Movie, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm2-12",
+        "Num Pecas": "2",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "King Boo and the Haunted Yard - Expansion Set",
+        "ID": "71377-1",
+        "Num Pecas": "288",
+        "Preco": 599.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Kitty Pop, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-15",
+        "Num Pecas": "3",
+        "Preco": 24.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Kitty Pop, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-15",
+        "Num Pecas": "3",
+        "Preco": 29.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Kitty Pop, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-15",
+        "Num Pecas": "3",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Knight of the Yellow Castle, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-11",
+        "Num Pecas": "5",
+        "Preco": 69.9
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Knight of the Yellow Castle, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-11",
+        "Num Pecas": "5",
+        "Preco": 69.9
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Knight of the Yellow Castle, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-11",
+        "Num Pecas": "5",
+        "Preco": 79.9
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Lady Cyclops, Series 13 (Complete Set with Stand and Accessories)",
+        "ID": "col13-15",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Lady Robot, Series 11 (Complete Set with Stand and Accessories)",
+        "ID": "col11-16",
+        "Num Pecas": "",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Ladybug Girl, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-4",
+        "Num Pecas": "3",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Ladybug Girl, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-4",
+        "Num Pecas": "3",
+        "Preco": 40.94
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Ladybug Girl, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-4",
+        "Num Pecas": "3",
+        "Preco": 41.5
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Lamborghini Sián (Sian) FKP 37",
+        "ID": "42115-1",
+        "Num Pecas": "3696",
+        "Preco": 4500.00
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Lance foil pack #2",
+        "ID": "271828-1",
+        "Num Pecas": "7",
+        "Preco": 55.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Land Rover Classic Defender 90",
+        "ID": "10317-1",
+        "Num Pecas": "2336",
+        "Preco": 2299.99
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Larry the Barista, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-10",
+        "Num Pecas": "2",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "LC Bricks Models",
+        "Nome": "Lars Family Homestead Kitchen",
+        "ID": "40531-1",
+        "Num Pecas": "191",
+        "Preco": 250.0
+    },
+    {
+        "Vendedor": "Tree House SP",
+        "Nome": "Lars Family Homestead Kitchen",
+        "ID": "40531-1",
+        "Num Pecas": "191",
+        "Preco": 295.0
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Las Vegas {Bellagio Hotel Version}",
+        "ID": "21047-1",
+        "Num Pecas": "501",
+        "Preco": 750.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Las Vegas {Bellagio Hotel Version}",
+        "ID": "21047-1",
+        "Num Pecas": "501",
+        "Preco": 799.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Laser Mech, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-11",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Lasha",
+        "ID": "9562-1",
+        "Num Pecas": "12",
+        "Preco": 131.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Lava Fighter foil pack",
+        "ID": "271605-1",
+        "Num Pecas": "7",
+        "Preco": 46.9
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Lava Wave Ride - Expansion Set",
+        "ID": "71416-1",
+        "Num Pecas": "167",
+        "Preco": 180.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "LEGO Club Max polybag",
+        "ID": "852996-1",
+        "Num Pecas": "1 Mini",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "LEGO House 6 Bricks polybag",
+        "ID": "624210-1",
+        "Num Pecas": "6",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "LEGO House Exclusive Chef Minifigure 2017 polybag",
+        "ID": "40295-1",
+        "Num Pecas": "2",
+        "Preco": 90.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "LEGO Store",
+        "ID": "40145-1",
+        "Num Pecas": "409",
+        "Preco": 255.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "LEGO Store",
+        "ID": "40145-1",
+        "Num Pecas": "409",
+        "Preco": 900.0
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "LEGO Store",
+        "ID": "40528-1",
+        "Num Pecas": "402",
+        "Preco": 299.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "LEGO Store Employee polybag",
+        "ID": "5001622-1",
+        "Num Pecas": "",
+        "Preco": 46.5
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Liann's Room",
+        "ID": "41739-1",
+        "Num Pecas": "196",
+        "Preco": 189.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Lifeguard, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-8",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Lifeguard, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-8",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Lifeguard, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-7",
+        "Num Pecas": "3",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Lion Dance",
+        "ID": "80104-1",
+        "Num Pecas": "849",
+        "Preco": 1199.99
+    },
+    {
+        "Vendedor": "013 Bricks",
+        "Nome": "Lisa Simpson, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-4",
+        "Num Pecas": "2",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Lisa Simpson, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-4",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Lisa with Snowball II, The Simpsons, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colsim2-3",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Lizard Man, Series 5 (Complete Set with Stand and Accessories)",
+        "ID": "col05-6",
+        "Num Pecas": "",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "JET BRICKS BH",
+        "Nome": "Llama Costume Girl, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-7",
+        "Num Pecas": "3",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Llama Costume Girl, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-7",
+        "Num Pecas": "3",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Lobster-Lovin' Batman, The LEGO Batman Movie, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm-1",
+        "Num Pecas": "3",
+        "Preco": 44.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Lola Bunny (Complete Set with Stand and Accessories)",
+        "ID": "collt-1",
+        "Num Pecas": "2",
+        "Preco": 36.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Lola Bunny (Complete Set with Stand and Accessories)",
+        "ID": "collt-1",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "London",
+        "ID": "21034-1",
+        "Num Pecas": "468",
+        "Preco": 399.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "London Bus",
+        "ID": "10258-1",
+        "Num Pecas": "1686",
+        "Preco": 1499.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-9",
+        "Num Pecas": "3",
+        "Preco": 44.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-9",
+        "Num Pecas": "3",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Lotus Evija",
+        "ID": "76907-1",
+        "Num Pecas": "242",
+        "Preco": 225.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Luke Skywalker with Blue Milk polybag",
+        "ID": "30625-1",
+        "Num Pecas": "2",
+        "Preco": 229.9
+    },
+    {
+        "Vendedor": "StarFigs BR",
+        "Nome": "Luke Skywalker's Landspeeder - UCS",
+        "ID": "75341-1",
+        "Num Pecas": "1883",
+        "Preco": 1799.00
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Lumberjack, Series 5 (Complete Set with Stand and Accessories)",
+        "ID": "col05-8",
+        "Num Pecas": "2",
+        "Preco": 49.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Lumberjack, Series 5 (Complete Set with Stand and Accessories)",
+        "ID": "col05-8",
+        "Num Pecas": "2",
+        "Preco": 75.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Luna Lovegood, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-5",
+        "Num Pecas": "4",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Luna Lovegood, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-5",
+        "Num Pecas": "4",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Luna Lovegood, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-5",
+        "Num Pecas": "3",
+        "Preco": 75.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Lunar Space Station",
+        "ID": "60349-1",
+        "Num Pecas": "472",
+        "Preco": 699.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mad-Eye Moody (Barty Crouch Jr. Transformation), Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-14",
+        "Num Pecas": "5",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Mad-Eye Moody (Barty Crouch Jr. Transformation), Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-14",
+        "Num Pecas": "5",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Maggie and Santa's Little Helper, The Simpsons, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colsim2-4",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "013 Bricks",
+        "Nome": "Maggie Simpson, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-5",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Maggie Simpson, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-5",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Magical Unicorn",
+        "ID": "31140-1",
+        "Num Pecas": "145",
+        "Preco": 80.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Main Square",
+        "ID": "60271-1",
+        "Num Pecas": "1455",
+        "Preco": 1799.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Main Street",
+        "ID": "31141-1",
+        "Num Pecas": "1435",
+        "Preco": 1169.99
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "March Harriet, The LEGO Batman Movie, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm-17",
+        "Num Pecas": "2",
+        "Preco": 33.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Marge Simpson, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-3",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mario's House & Yoshi - Expansion Set",
+        "ID": "71367-1",
+        "Num Pecas": "163",
+        "Preco": 254.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Martial Arts Boy, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-10",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Martial Arts Boy, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-10",
+        "Num Pecas": "2",
+        "Preco": 49.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Martin Prince, The Simpsons, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colsim2-8",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Marvin the Martian (Complete Set with Stand and Accessories)",
+        "ID": "collt-10",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Marvin the Martian (Complete Set with Stand and Accessories)",
+        "ID": "collt-10",
+        "Num Pecas": "2",
+        "Preco": 41.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Marvin the Martian (Complete Set with Stand and Accessories)",
+        "ID": "collt-10",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "McLaren Elva",
+        "ID": "76902-1",
+        "Num Pecas": "258",
+        "Preco": 142.49
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "McLaren Formula 1 Team 2022 Race Car",
+        "ID": "42141-1",
+        "Num Pecas": "1432",
+        "Preco": 1799.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mechanic, Series 6 (Complete Set with Stand and Accessories)",
+        "ID": "col06-15",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Medieval Blacksmith",
+        "ID": "21325-1",
+        "Num Pecas": "2144",
+        "Preco": 1499.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Medieval Blacksmith",
+        "ID": "21325-1",
+        "Num Pecas": "2144",
+        "Preco": 1599.99
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Medieval Blacksmith",
+        "ID": "21325-1",
+        "Num Pecas": "2144",
+        "Preco": 1740.00
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Medium Creative Brick Box",
+        "ID": "10696-1",
+        "Num Pecas": "484",
+        "Preco": 219.99
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Medium Creative Brick Box",
+        "ID": "10696-1",
+        "Num Pecas": "484",
+        "Preco": 319.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Mercedes-AMG F1 W12 E Performance & Mercedes-AMG Project One",
+        "ID": "76909-1",
+        "Num Pecas": "554",
+        "Preco": 390.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Merchant Avatar Jay polybag",
+        "ID": "30537-1",
+        "Num Pecas": "42",
+        "Preco": 40.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mermaid Batman, The LEGO Batman Movie, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm2-5",
+        "Num Pecas": "2",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Mermaid, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-12",
+        "Num Pecas": "2",
+        "Preco": 90.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "MetalBeard's Heavy Metal Motor Trike!",
+        "ID": "70834-1",
+        "Num Pecas": "442",
+        "Preco": 500.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Metamorpho, DC Super Heroes (Complete Set with Stand and Accessories)",
+        "ID": "colsh-12",
+        "Num Pecas": "4",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Mickey & Friends Fire Truck & Station",
+        "ID": "10776-1",
+        "Num Pecas": "134",
+        "Preco": 300.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mickey Mouse & Donald Duck's Farm",
+        "ID": "10775-1",
+        "Num Pecas": "111",
+        "Preco": 269.99
+    },
+    {
+        "Vendedor": "CampBricks Store",
+        "Nome": "Mickey Mouse's Propeller Plane",
+        "ID": "10772-1",
+        "Num Pecas": "56",
+        "Preco": 82.5
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Mickey Mouse, Disney, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coldis-12",
+        "Num Pecas": "",
+        "Preco": 47.5
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Mickey Mouse, Disney, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coldis-12",
+        "Num Pecas": "",
+        "Preco": 49.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Mickey, Minnie and Goofy's Fairground Fun",
+        "ID": "10778-1",
+        "Num Pecas": "173",
+        "Preco": 300.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mickey, Minnie and Goofy's Fairground Fun",
+        "ID": "10778-1",
+        "Num Pecas": "173",
+        "Preco": 313.49
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Microlight",
+        "ID": "2884-1",
+        "Num Pecas": "15",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Miguel & Dante, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-11",
+        "Num Pecas": "5",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Miles Morales with Skateboard paper bag",
+        "ID": "682303-1",
+        "Num Pecas": "6",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Milhouse Van Houten, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-9",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Millennium Falcon",
+        "ID": "75257-1",
+        "Num Pecas": "1327",
+        "Preco": 1349.99
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Millennium Falcon",
+        "ID": "75375-1",
+        "Num Pecas": "921",
+        "Preco": 650.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Mime, The LEGO Batman Movie, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm-20",
+        "Num Pecas": "3",
+        "Preco": 29.61
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Mime, The LEGO Batman Movie, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm-20",
+        "Num Pecas": "3",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "Mini Disney Castle",
+        "ID": "40478-1",
+        "Num Pecas": "564",
+        "Preco": 349.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mini Disney Castle",
+        "ID": "40478-1",
+        "Num Pecas": "564",
+        "Preco": 569.99
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Mini London Bus",
+        "ID": "40220-1",
+        "Num Pecas": "118",
+        "Preco": 140.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, DC Super Heroes (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71026-2",
+        "Num Pecas": "1",
+        "Preco": 720.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Minifigure, Deutscher Fussball-Bund / DFB (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71014-2",
+        "Num Pecas": "1",
+        "Preco": 999.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Minifigure, Disney 100 (Complete Series of 18 Complete Minifigure Sets)",
+        "ID": "71038-2",
+        "Num Pecas": "1",
+        "Preco": 800.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Disney, Series 1 (Complete Series of 18 Complete Minifigure Sets)",
+        "ID": "71012-2",
+        "Num Pecas": "18",
+        "Preco": 1260.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Disney, Series 2 (Complete Series of 18 Complete Minifigure Sets)",
+        "ID": "71024-2",
+        "Num Pecas": "18",
+        "Preco": 1080.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Disney, Series 2 (Complete Series of 18 Complete Minifigure Sets)",
+        "ID": "71024-2",
+        "Num Pecas": "18",
+        "Preco": 1440.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Harry Potter, Series 1 (Complete Series of 22 Complete Minifigure Sets)",
+        "ID": "71022-2",
+        "Num Pecas": "22",
+        "Preco": 1320.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Looney Tunes (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71030-2",
+        "Num Pecas": "1",
+        "Preco": 720.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Marvel Studios, Series 1 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71031-2",
+        "Num Pecas": "1",
+        "Preco": 479.88
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Minifigure, Marvel Studios, Series 2 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71039-2",
+        "Num Pecas": "1",
+        "Preco": 600.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 3 (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "8803-2",
+        "Num Pecas": "16",
+        "Preco": 1280.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 16 (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71013-2",
+        "Num Pecas": "1",
+        "Preco": 960.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 18 (Complete Series of 17 Complete Minifigure Sets)",
+        "ID": "71021-2",
+        "Num Pecas": "1",
+        "Preco": 960.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 19 (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71025-2",
+        "Num Pecas": "1",
+        "Preco": 800.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 20 (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71027-2",
+        "Num Pecas": "1",
+        "Preco": 720.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Minifigure, Series 21 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71029-2",
+        "Num Pecas": "1",
+        "Preco": 399.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 21 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71029-2",
+        "Num Pecas": "1",
+        "Preco": 540.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Minifigure, Series 22 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71032-2",
+        "Num Pecas": "1",
+        "Preco": 500.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 22 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71032-2",
+        "Num Pecas": "1",
+        "Preco": 540.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 23 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71034-2",
+        "Num Pecas": "1",
+        "Preco": 540.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71037-2",
+        "Num Pecas": "1",
+        "Preco": 450.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71037-2",
+        "Num Pecas": "1",
+        "Preco": 513.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Minifigure, Series 25 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71045-2",
+        "Num Pecas": "1",
+        "Preco": 480.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Series 25 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71045-2",
+        "Num Pecas": "1",
+        "Preco": 486.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Minifigure, Series 25 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71045-2",
+        "Num Pecas": "1",
+        "Preco": 535.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Minifigure, Team GB (Complete Series of 9 Complete Minifigure Sets)",
+        "ID": "8909-2",
+        "Num Pecas": "9",
+        "Preco": 1497.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, The LEGO Movie (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71004-2",
+        "Num Pecas": "1",
+        "Preco": 960.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, The LEGO Movie 2 (Complete Series of 20 Complete Minifigure Sets)",
+        "ID": "71023-2",
+        "Num Pecas": "2",
+        "Preco": 720.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, The LEGO Movie 2: The Second Part  (Box of 60)",
+        "ID": "6251226-1",
+        "Num Pecas": "60",
+        "Preco": 1350.00
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Minifigure, The Muppets (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71033-2",
+        "Num Pecas": "1",
+        "Preco": 450.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, The Muppets (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "71033-2",
+        "Num Pecas": "1",
+        "Preco": 479.88
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, The Simpsons, Series 1 (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71005-2",
+        "Num Pecas": "1",
+        "Preco": 800.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, The Simpsons, Series 2 (Complete Series of 16 Complete Minifigure Sets)",
+        "ID": "71009-2",
+        "Num Pecas": "1",
+        "Preco": 800.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Minifigure, Vidiyo Bandmates, Series 1 (Complete Series of 12 Complete Minifigure Sets)",
+        "ID": "43101-2",
+        "Num Pecas": "1",
+        "Preco": 479.88
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Miss Piggy, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-6",
+        "Num Pecas": "2",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Miss Piggy, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-6",
+        "Num Pecas": "2",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Miss Piggy, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-6",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Moana's Dolphin Cove polybag",
+        "ID": "30646-1",
+        "Num Pecas": "43",
+        "Preco": 44.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Moaning Myrtle, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-14",
+        "Num Pecas": "6",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mobile Bubble Tea Shop",
+        "ID": "41733-1",
+        "Num Pecas": "101",
+        "Preco": 89.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mobile Crane",
+        "ID": "60324-1",
+        "Num Pecas": "332",
+        "Preco": 360.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Monastery of Spinjitzu",
+        "ID": "70670-1",
+        "Num Pecas": "1033",
+        "Preco": 1297.00
+    },
+    {
+        "Vendedor": "Minas Brick",
+        "Nome": "Money Tree",
+        "ID": "40648-1",
+        "Num Pecas": "336",
+        "Preco": 338.71
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Monkie Kid's RC Race blister pack",
+        "ID": "40472-1",
+        "Num Pecas": "43",
+        "Preco": 250.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Monster Rocker, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-12",
+        "Num Pecas": "2",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Monster Rocker, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-12",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Monster Rocker, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-12",
+        "Num Pecas": "2",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Monster Scientist, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-3",
+        "Num Pecas": "2",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Monster Scientist, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-3",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Monster Scientist, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-3",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Monster Truck",
+        "ID": "60402-1",
+        "Num Pecas": "144",
+        "Preco": 129.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Monthly Mini Model Build Set - 2018 10 October, Scarecrow polybag",
+        "ID": "40285-1",
+        "Num Pecas": "24",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Monthly Mini Model Build Set - 2019 03 March, Viking Ship polybag",
+        "ID": "40323-1",
+        "Num Pecas": "54",
+        "Preco": 45.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Moon Knight, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-2",
+        "Num Pecas": "5",
+        "Preco": 79.99
+    },
+    {
+        "Vendedor": "StarFigs BR",
+        "Nome": "Mos Eisley Cantina",
+        "ID": "75290-1",
+        "Num Pecas": "3090",
+        "Preco": 3799.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Motorcycle Mechanic, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-16",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Motorcycle Mechanic, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-16",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "minifiguras rs",
+        "Nome": "Mountain Climber, Series 11 (Complete Set with Stand and Accessories)",
+        "ID": "col11-9",
+        "Num Pecas": "3",
+        "Preco": 23.75
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mountain Climber, Series 11 (Complete Set with Stand and Accessories)",
+        "ID": "col11-9",
+        "Num Pecas": "3",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "Moving Truck",
+        "ID": "40586-1",
+        "Num Pecas": "293",
+        "Preco": 299.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Mr. Good and Evil, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-14",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Mr. Knight, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-3",
+        "Num Pecas": "8",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Mr. Knight, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-3",
+        "Num Pecas": "8",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "LC Bricks Models",
+        "Nome": "Mr. Knight, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-3",
+        "Num Pecas": "8",
+        "Preco": 90.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Mulan, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-9",
+        "Num Pecas": "5",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Mummy Queen, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-6",
+        "Num Pecas": "2",
+        "Preco": 33.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Mummy Queen, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-6",
+        "Num Pecas": "2",
+        "Preco": 37.0
+    },
+    {
+        "Vendedor": "CampBricks Store",
+        "Nome": "Mummy Queen, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-6",
+        "Num Pecas": "2",
+        "Preco": 37.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Mummy Queen, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-6",
+        "Num Pecas": "2",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Mummy Queen, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-6",
+        "Num Pecas": "2",
+        "Preco": 46.2
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Mushroom Sprite, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-6",
+        "Num Pecas": "2",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Mushroom Sprite, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-6",
+        "Num Pecas": "2",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Mushroom Sprite, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-6",
+        "Num Pecas": "2",
+        "Preco": 46.75
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Musketeer, Series 4 (Complete Set with Stand and Accessories)",
+        "ID": "col04-3",
+        "Num Pecas": "2",
+        "Preco": 69.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Mystery Mansion",
+        "ID": "75904-1",
+        "Num Pecas": "832",
+        "Preco": 7000.00
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "NASA Space Shuttle Discovery",
+        "ID": "10283-1",
+        "Num Pecas": "2354",
+        "Preco": 1930.00
+    },
+    {
+        "Vendedor": "013 Bricks",
+        "Nome": "Ned Flanders, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-7",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Ned Flanders, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-7",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Ned Flanders, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-7",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Nelson Muntz, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-12",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Nelson Muntz, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-12",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Neville Longbottom, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-6",
+        "Num Pecas": "5",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Neville Longbottom, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-6",
+        "Num Pecas": "5",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Neville Longbottom, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-16",
+        "Num Pecas": "5",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Neville Longbottom, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-16",
+        "Num Pecas": "5",
+        "Preco": 40.95
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "New York City",
+        "ID": "21028-1",
+        "Num Pecas": "598",
+        "Preco": 379.99
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "New York City",
+        "ID": "21028-1",
+        "Num Pecas": "598",
+        "Preco": 399.0
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "New York City",
+        "ID": "21028-1",
+        "Num Pecas": "598",
+        "Preco": 400.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "New York City",
+        "ID": "21028-1",
+        "Num Pecas": "598",
+        "Preco": 599.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Newspaper Kid, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-12",
+        "Num Pecas": "4",
+        "Preco": 36.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Newspaper Kid, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-12",
+        "Num Pecas": "4",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Newspaper Kid, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-12",
+        "Num Pecas": "4",
+        "Preco": 41.9
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Newspaper Kid, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-12",
+        "Num Pecas": "4",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Newt Scamander, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-17",
+        "Num Pecas": "5",
+        "Preco": 42.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Night Protector, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-7",
+        "Num Pecas": "3",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Night Protector, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-7",
+        "Num Pecas": "3",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Ninja Glider polybag",
+        "ID": "30080-1",
+        "Num Pecas": "22",
+        "Preco": 160.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Ninja, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "col01-12",
+        "Num Pecas": "2",
+        "Preco": 85.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Ninja, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "col01-12",
+        "Num Pecas": "2",
+        "Preco": 238.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "NINJAGO City Gardens",
+        "ID": "71741-1",
+        "Num Pecas": "5574",
+        "Preco": 2969.99
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Nova's Room",
+        "ID": "41755-1",
+        "Num Pecas": "171",
+        "Preco": 199.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Nurse Harley Quinn, The LEGO Batman Movie, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm-13",
+        "Num Pecas": "2",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Nutcracker, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-1",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Nutcracker, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-1",
+        "Num Pecas": "3",
+        "Preco": 44.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Nutcracker, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-1",
+        "Num Pecas": "3",
+        "Preco": 49.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Old Trafford - Manchester United",
+        "ID": "10272-1",
+        "Num Pecas": "3898",
+        "Preco": 3999.99
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Orc, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-7",
+        "Num Pecas": "3",
+        "Preco": 74.9
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Oswald the Lucky Rabbit, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-1",
+        "Num Pecas": "2",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Oswald the Lucky Rabbit, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-1",
+        "Num Pecas": "2",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Oswald the Lucky Rabbit, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-1",
+        "Num Pecas": "2",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Paddle Surfer, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-1",
+        "Num Pecas": "4",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Paddle Surfer, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-1",
+        "Num Pecas": "4",
+        "Preco": 41.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Paddle Surfer, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-1",
+        "Num Pecas": "4",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Pagani Utopia",
+        "ID": "76915-1",
+        "Num Pecas": "245",
+        "Preco": 189.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Paintball Player, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-9",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pajama Girl, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-15",
+        "Num Pecas": "2",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Paleontologist, Series 13 (Complete Set with Stand and Accessories)",
+        "ID": "col13-6",
+        "Num Pecas": "3",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Paleontologist, Series 13 (Complete Set with Stand and Accessories)",
+        "ID": "col13-6",
+        "Num Pecas": "3",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Panda Guy, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-15",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Panda Guy, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-15",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Parachute Bob-omb, Super Mario, Series 3 (Complete Set)",
+        "ID": "char03-4",
+        "Num Pecas": "14",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Paragoomba, Super Mario, Series 1 (Complete Set)",
+        "ID": "char01-1",
+        "Num Pecas": "8",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Paragoomba, Super Mario, Series 1 (Complete Set)",
+        "ID": "char01-1",
+        "Num Pecas": "8",
+        "Preco": 70.69
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Paris",
+        "ID": "21044-1",
+        "Num Pecas": "649",
+        "Preco": 474.99
+    },
+    {
+        "Vendedor": "JET BRICKS BH",
+        "Nome": "Peapod Costume Girl, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-3",
+        "Num Pecas": "2",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Peapod Costume Girl, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-3",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Peapod Costume Girl, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-3",
+        "Num Pecas": "2",
+        "Preco": 59.97
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Peepa, Super Mario, Series 1 (Complete Set)",
+        "ID": "char01-10",
+        "Num Pecas": "9",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pen Holder",
+        "ID": "41948-1",
+        "Num Pecas": "438",
+        "Preco": 179.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Penguin Slushy Van",
+        "ID": "60384-1",
+        "Num Pecas": "186",
+        "Preco": 129.9
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Percival Graves, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-22",
+        "Num Pecas": "3",
+        "Preco": 110.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Pet Groomer, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-12",
+        "Num Pecas": "3",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Pet Groomer, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-12",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Pet Groomer, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-12",
+        "Num Pecas": "3",
+        "Preco": 42.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Pet Groomer, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-12",
+        "Num Pecas": "3",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pet Groomer, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-12",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "LC toys",
+        "Nome": "Pet Shop",
+        "ID": "10218-1",
+        "Num Pecas": "2016",
+        "Preco": 3500.00
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pet Shop",
+        "ID": "10218-1",
+        "Num Pecas": "2016",
+        "Preco": 4199.90
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Peter Pan & Wendy's Flight over London",
+        "ID": "43232-1",
+        "Num Pecas": "453",
+        "Preco": 469.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Peter Pan & Wendy's Storybook Adventure",
+        "ID": "43220-1",
+        "Num Pecas": "102",
+        "Preco": 143.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Petunia Pig (Complete Set with Stand and Accessories)",
+        "ID": "collt-11",
+        "Num Pecas": "3",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Petunia Pig (Complete Set with Stand and Accessories)",
+        "ID": "collt-11",
+        "Num Pecas": "3",
+        "Preco": 37.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Petunia Pig (Complete Set with Stand and Accessories)",
+        "ID": "collt-11",
+        "Num Pecas": "3",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Photo Holder Cube polybag",
+        "ID": "30557-1",
+        "Num Pecas": "109",
+        "Preco": 55.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pickup Truck",
+        "ID": "10290-1",
+        "Num Pecas": "1677",
+        "Preco": 1299.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Piggy Guy, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-14",
+        "Num Pecas": "2",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "Minas Brick",
+        "Nome": "Piñata {Pinata}",
+        "ID": "40644-1",
+        "Num Pecas": "206",
+        "Preco": 178.92
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Pink Power Batgirl, The LEGO Batman Movie, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coltlbm-10",
+        "Num Pecas": "2",
+        "Preco": 42.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pirate Girl, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-5",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Minas Brick",
+        "Nome": "Pirate Ship Playground",
+        "ID": "40589-1",
+        "Num Pecas": "160",
+        "Preco": 238.97
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Pirate Snub Fighter",
+        "ID": "75346-1",
+        "Num Pecas": "277",
+        "Preco": 279.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Pirates of Barracuda Bay",
+        "ID": "21322-1",
+        "Num Pecas": "2498",
+        "Preco": 4420.0
+    },
+    {
+        "Vendedor": "CABrinquedos",
+        "Nome": "Pizza Costume Guy, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-10",
+        "Num Pecas": "2",
+        "Preco": 22.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pizza Costume Guy, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-10",
+        "Num Pecas": "2",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Pizza Delivery Guy, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-11",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pizza Delivery Guy, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-11",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Plant Monster, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-5",
+        "Num Pecas": "3",
+        "Preco": 40.5
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Plant Monster, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-5",
+        "Num Pecas": "3",
+        "Preco": 49.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Plumber, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-16",
+        "Num Pecas": "2",
+        "Preco": 90.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Plumber, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-16",
+        "Num Pecas": "2",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pluto & Goofy",
+        "ID": "40378-1",
+        "Num Pecas": "214",
+        "Preco": 349.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Pocahontas, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-12",
+        "Num Pecas": "5",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Pocahontas, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-12",
+        "Num Pecas": "5",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Police Boat polybag",
+        "ID": "30017-1",
+        "Num Pecas": "30",
+        "Preco": 49.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Police Car",
+        "ID": "60312-1",
+        "Num Pecas": "90",
+        "Preco": 80.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Police Helicopter",
+        "ID": "60275-1",
+        "Num Pecas": "43",
+        "Preco": 74.9
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Police Helicopter",
+        "ID": "60275-1",
+        "Num Pecas": "43",
+        "Preco": 89.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Police Station",
+        "ID": "10278-1",
+        "Num Pecas": "2903",
+        "Preco": 1799.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Police Station",
+        "ID": "10278-1",
+        "Num Pecas": "2903",
+        "Preco": 1999.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Police Station",
+        "ID": "10278-1",
+        "Num Pecas": "2903",
+        "Preco": 2250.00
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Police Station",
+        "ID": "10278-1",
+        "Num Pecas": "2903",
+        "Preco": 2320.00
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Police Watercraft polybag",
+        "ID": "30227-1",
+        "Num Pecas": "26",
+        "Preco": 75.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Policeman, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-6",
+        "Num Pecas": "3",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Policeman, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-6",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Policeman, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-6",
+        "Num Pecas": "3",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Pony-Washing Stable",
+        "ID": "41696-1",
+        "Num Pecas": "51",
+        "Preco": 79.99
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Popcorn Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-7",
+        "Num Pecas": "",
+        "Preco": 30.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Popcorn Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-7",
+        "Num Pecas": "",
+        "Preco": 32.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Popcorn Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-7",
+        "Num Pecas": "",
+        "Preco": 34.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Popcorn Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-7",
+        "Num Pecas": "",
+        "Preco": 36.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Porky Pig (Complete Set with Stand and Accessories)",
+        "ID": "collt-12",
+        "Num Pecas": "5",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Porky Pig (Complete Set with Stand and Accessories)",
+        "ID": "collt-12",
+        "Num Pecas": "5",
+        "Preco": 38.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Porky Pig (Complete Set with Stand and Accessories)",
+        "ID": "collt-12",
+        "Num Pecas": "5",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Porsche 963",
+        "ID": "76916-1",
+        "Num Pecas": "276",
+        "Preco": 189.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Porsche 963",
+        "ID": "76916-1",
+        "Num Pecas": "276",
+        "Preco": 199.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Possessed Biker foil pack",
+        "ID": "792005-1",
+        "Num Pecas": "3",
+        "Preco": 45.9
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Potter, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-9",
+        "Num Pecas": "6",
+        "Preco": 36.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Potter, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-9",
+        "Num Pecas": "6",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "minifiguras rs",
+        "Nome": "Potter, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-9",
+        "Num Pecas": "6",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Potter, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-9",
+        "Num Pecas": "6",
+        "Preco": 41.5
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Potter, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-9",
+        "Num Pecas": "6",
+        "Preco": 43.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Potter, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-9",
+        "Num Pecas": "6",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Power Functions Battery Box",
+        "ID": "8881-1",
+        "Num Pecas": "",
+        "Preco": 158.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Power Functions M-Motor",
+        "ID": "8883-1",
+        "Num Pecas": "",
+        "Preco": 247.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "President Business, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-2",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "President Business, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-2",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Prince John, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-15",
+        "Num Pecas": "3",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Prince John, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-15",
+        "Num Pecas": "3",
+        "Preco": 41.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Prince John, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-15",
+        "Num Pecas": "3",
+        "Preco": 41.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Prince John, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-15",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Professor Flitwick, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-13",
+        "Num Pecas": "3",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Professor Flitwick, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-13",
+        "Num Pecas": "3",
+        "Preco": 40.49
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Professor Sprout, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-15",
+        "Num Pecas": "5",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Professor Sprout, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-15",
+        "Num Pecas": "5",
+        "Preco": 40.95
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Professor Trelawney, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-11",
+        "Num Pecas": "4",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Programmer, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-5",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Propeller Mario - Power-Up Pack",
+        "ID": "71371-1",
+        "Num Pecas": "13",
+        "Preco": 76.49
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Prospector, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-8",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Prospector, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-8",
+        "Num Pecas": "2",
+        "Preco": 65.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Pug Costume Guy, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-5",
+        "Num Pecas": "2",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Pug Costume Guy, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-5",
+        "Num Pecas": "2",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Pug Costume Guy, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-5",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Pug Costume Guy, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-5",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Queen of Hearts, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-7",
+        "Num Pecas": "3",
+        "Preco": 42.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Queen of Hearts, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-7",
+        "Num Pecas": "3",
+        "Preco": 44.5
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Queenie Goldstein, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-20",
+        "Num Pecas": "3",
+        "Preco": 25.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Queenie Goldstein, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-20",
+        "Num Pecas": "3",
+        "Preco": 32.55
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Queenie Goldstein, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-20",
+        "Num Pecas": "3",
+        "Preco": 40.49
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Quidditch Practice polybag",
+        "ID": "30651-1",
+        "Num Pecas": "51",
+        "Preco": 28.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Quidditch Practice polybag",
+        "ID": "30651-1",
+        "Num Pecas": "51",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Raccoon Costume Fan, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-10",
+        "Num Pecas": "4",
+        "Preco": 34.0
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Raccoon Costume Fan, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-10",
+        "Num Pecas": "4",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Raccoon Costume Fan, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-10",
+        "Num Pecas": "4",
+        "Preco": 42.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Raccoon Costume Fan, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-10",
+        "Num Pecas": "4",
+        "Preco": 42.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Raccoon Costume Fan, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-10",
+        "Num Pecas": "4",
+        "Preco": 42.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Race Car",
+        "ID": "60322-1",
+        "Num Pecas": "37",
+        "Preco": 84.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Race Car Transporter",
+        "ID": "31113-1",
+        "Num Pecas": "328",
+        "Preco": 189.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Radio DJ Robot polybag",
+        "ID": "5002203-1",
+        "Num Pecas": "1 Mini",
+        "Preco": 54.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Ralph Wiggum, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-10",
+        "Num Pecas": "2",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Ralph Wiggum, The Simpsons, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colsim-10",
+        "Num Pecas": "2",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Ravager Attack",
+        "ID": "76079-1",
+        "Num Pecas": "184",
+        "Preco": 340.0
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "Ray the Castaway",
+        "ID": "40566-1",
+        "Num Pecas": "235",
+        "Preco": 239.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Raya and Sisu Dragon",
+        "ID": "43184-1",
+        "Num Pecas": "212",
+        "Preco": 239.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Raya and the Heart Palace",
+        "ID": "43181-1",
+        "Num Pecas": "601",
+        "Preco": 559.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Rebel A-wing Pilot polybag",
+        "ID": "5004408-1",
+        "Num Pecas": "",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Recycling Truck",
+        "ID": "60386-1",
+        "Num Pecas": "249",
+        "Preco": 251.99
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Red Cheerleader, Series 8 (Complete Set with Stand and Accessories)",
+        "ID": "col08-13",
+        "Num Pecas": "3",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "Brickfreak Minifigures",
+        "Nome": "Red Five X-wing Starfighter - UCS {2nd edition}",
+        "ID": "10240-1",
+        "Num Pecas": "1554",
+        "Preco": 1649.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Reindeer Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-4",
+        "Num Pecas": "4",
+        "Preco": 37.5
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Reindeer Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-4",
+        "Num Pecas": "4",
+        "Preco": 37.9
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Reindeer Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-4",
+        "Num Pecas": "4",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Reindeer Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-4",
+        "Num Pecas": "4",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Rescue Helicopter Transport",
+        "ID": "60343-1",
+        "Num Pecas": "206",
+        "Preco": 150.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Revolutionary Soldier, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-12",
+        "Num Pecas": "2",
+        "Preco": 110.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Rhino Face-Off by the Mine",
+        "ID": "76099-1",
+        "Num Pecas": "218",
+        "Preco": 340.0
+    },
+    {
+        "Vendedor": "Brick_in_the_wall",
+        "Nome": "Rio 2016 Mascots",
+        "ID": "40225-1",
+        "Num Pecas": "197",
+        "Preco": 140.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Rio 2016 Mascots",
+        "ID": "40225-1",
+        "Num Pecas": "197",
+        "Preco": 290.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Rio 2016 Mascots",
+        "ID": "40225-1",
+        "Num Pecas": "197",
+        "Preco": 290.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Road Plates",
+        "ID": "60304-1",
+        "Num Pecas": "112",
+        "Preco": 169.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Road Plates",
+        "ID": "60304-1",
+        "Num Pecas": "112",
+        "Preco": 179.99
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Road Plates",
+        "ID": "60304-1",
+        "Num Pecas": "112",
+        "Preco": 199.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Roadwork Truck",
+        "ID": "60284-1",
+        "Num Pecas": "54",
+        "Preco": 80.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Robin foil pack #1",
+        "ID": "271603-1",
+        "Num Pecas": "19",
+        "Preco": 34.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Robin Hood, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-14",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Robin Hood, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-14",
+        "Num Pecas": "2",
+        "Preco": 41.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Robin Hood, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-14",
+        "Num Pecas": "2",
+        "Preco": 41.9
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Robot Repair Tech, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-1",
+        "Num Pecas": "10",
+        "Preco": 27.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Robot Repair Tech, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-1",
+        "Num Pecas": "10",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Robot Repair Tech, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-1",
+        "Num Pecas": "10",
+        "Preco": 34.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Robot Repair Tech, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-1",
+        "Num Pecas": "10",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Robot Warrior, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-2",
+        "Num Pecas": "9",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Robot Warrior, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-2",
+        "Num Pecas": "9",
+        "Preco": 43.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Robot Warrior, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-2",
+        "Num Pecas": "9",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Robot Warrior, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-2",
+        "Num Pecas": "9",
+        "Preco": 48.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Rock Monster Truck polybag",
+        "ID": "30594-1",
+        "Num Pecas": "54",
+        "Preco": 34.5
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Rock Star, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-12",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "UAIBRICKS",
+        "Nome": "Rocker Girl, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-15",
+        "Num Pecas": "2",
+        "Preco": 27.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Rocker Girl, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-15",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Rocker Girl, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-15",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Rocket Assembly & Transport",
+        "ID": "60229-1",
+        "Num Pecas": "1011",
+        "Preco": 1349.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Rocket Stunt Bike",
+        "ID": "60298-1",
+        "Num Pecas": "9",
+        "Preco": 69.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Rocket Truck",
+        "ID": "31103-1",
+        "Num Pecas": "198",
+        "Preco": 142.49
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Rockin' Horse Rider, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-11",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Rockin' Horse Rider, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-11",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Rockin' Horse Rider, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-11",
+        "Num Pecas": "3",
+        "Preco": 41.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Rockin' Horse Rider, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-11",
+        "Num Pecas": "3",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "minifiguras rs",
+        "Nome": "Rockin' Horse Rider, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-11",
+        "Num Pecas": "3",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Roller Derby Girl, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-8",
+        "Num Pecas": "",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Roller Derby Girl, Series 9 (Complete Set with Stand and Accessories)",
+        "ID": "col09-8",
+        "Num Pecas": "",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Roman Chariot",
+        "ID": "6346109-1",
+        "Num Pecas": "122",
+        "Preco": 439.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Ron Weasley in School Robes, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-3",
+        "Num Pecas": "3",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Ron Weasley in School Robes, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-3",
+        "Num Pecas": "3",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Ron Weasley, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-4",
+        "Num Pecas": "3",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Ron Weasley, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-4",
+        "Num Pecas": "3",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Ron Weasley, Harry Potter, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colhp2-4",
+        "Num Pecas": "3",
+        "Preco": 40.95
+    },
+    {
+        "Vendedor": "Minas Brick",
+        "Nome": "Roses",
+        "ID": "40460-1",
+        "Num Pecas": "120",
+        "Preco": 198.52
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Rowlf the Dog, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-1",
+        "Num Pecas": "5",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Rowlf the Dog, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-1",
+        "Num Pecas": "5",
+        "Preco": 32.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Rowlf the Dog, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-1",
+        "Num Pecas": "5",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Rowlf the Dog, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-1",
+        "Num Pecas": "5",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Rowlf the Dog, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-1",
+        "Num Pecas": "5",
+        "Preco": 36.5
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Rowlf the Dog, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-1",
+        "Num Pecas": "5",
+        "Preco": 37.5
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Royal Guard, Series 5 (Complete Set with Stand and Accessories)",
+        "ID": "col05-3",
+        "Num Pecas": "2",
+        "Preco": 120.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Rugby Player, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-13",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Rugby Player, Series 19 (Complete Set with Stand and Accessories)",
+        "ID": "col19-13",
+        "Num Pecas": "2",
+        "Preco": 41.37
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Ruina's Lock & Roller",
+        "ID": "70349-1",
+        "Num Pecas": "193",
+        "Preco": 1200.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Sad Clown, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-11",
+        "Num Pecas": "",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sally, Disney, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coldis2-15",
+        "Num Pecas": "3",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Sam-X polybag",
+        "ID": "30533-1",
+        "Num Pecas": "56",
+        "Preco": 24.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sami Khedira, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)",
+        "ID": "coldfb-11",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Samurai, Series 13 (Complete Set with Stand and Accessories)",
+        "ID": "col13-12",
+        "Num Pecas": "3",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "San Francisco",
+        "ID": "21043-1",
+        "Num Pecas": "565",
+        "Preco": 809.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sanctum Sanctorum",
+        "ID": "76218-1",
+        "Num Pecas": "2672",
+        "Preco": 2339.99
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "Santa polybag",
+        "ID": "30573-1",
+        "Num Pecas": "67",
+        "Preco": 59.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Santa's Visit",
+        "ID": "10293-1",
+        "Num Pecas": "1427",
+        "Preco": 1199.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Scarecrow, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-18",
+        "Num Pecas": "2",
+        "Preco": 49.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Scarecrow, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-18",
+        "Num Pecas": "2",
+        "Preco": 95.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Scribble-Face Bad Cop, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-7",
+        "Num Pecas": "3",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Scribble-Face Bad Cop, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-7",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Scrooge McDuck, Disney, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "coldis2-6",
+        "Num Pecas": "3",
+        "Preco": 49.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Scuttlebug, Super Mario, Series 3 (Complete Set)",
+        "ID": "char03-3",
+        "Num Pecas": "10",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "JET BRICKS BH",
+        "Nome": "Sea Rescuer, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-12",
+        "Num Pecas": "5",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sea Rescuer, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-12",
+        "Num Pecas": "5",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Sea Rescuer, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-12",
+        "Num Pecas": "5",
+        "Preco": 49.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Secret Boxes",
+        "ID": "41925-1",
+        "Num Pecas": "273",
+        "Preco": 134.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Seinfeld",
+        "ID": "21328-1",
+        "Num Pecas": "1306",
+        "Preco": 899.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Shades Unikitty, Unikitty!, Series 1 (Complete Set with Stand)",
+        "ID": "coluni1-5",
+        "Num Pecas": "",
+        "Preco": 29.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Shark Army Angler, The LEGO Ninjago Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlnm-13",
+        "Num Pecas": "4",
+        "Preco": 37.25
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Shark Army General #1, The LEGO Ninjago Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlnm-11",
+        "Num Pecas": "2",
+        "Preco": 41.27
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Shark Suit Guy, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-13",
+        "Num Pecas": "",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Shark Suit Guy, Series 15 (Complete Set with Stand and Accessories)",
+        "ID": "col15-13",
+        "Num Pecas": "",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "She-Hulk, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-5",
+        "Num Pecas": "5",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "She-Hulk, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-5",
+        "Num Pecas": "5",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "She-Hulk, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-5",
+        "Num Pecas": "5",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sherry Scratchen-Post & Scarfield, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-6",
+        "Num Pecas": "2",
+        "Preco": 19.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sherry Scratchen-Post & Scarfield, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-6",
+        "Num Pecas": "2",
+        "Preco": 24.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Sherry Scratchen-Post & Scarfield, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-6",
+        "Num Pecas": "2",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Sinestro, DC Super Heroes (Complete Set with Stand and Accessories)",
+        "ID": "colsh-5",
+        "Num Pecas": "6",
+        "Preco": 30.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Sinestro, DC Super Heroes (Complete Set with Stand and Accessories)",
+        "ID": "colsh-5",
+        "Num Pecas": "6",
+        "Preco": 30.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Singapore",
+        "ID": "21057-1",
+        "Num Pecas": "827",
+        "Preco": 479.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Skate Ramp polybag",
+        "ID": "30633-1",
+        "Num Pecas": "42",
+        "Preco": 36.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Skate Ramp polybag",
+        "ID": "30633-1",
+        "Num Pecas": "42",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Skater polybag",
+        "ID": "30568-1",
+        "Num Pecas": "36",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Skater, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "col01-6",
+        "Num Pecas": "4",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Skater, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "col01-6",
+        "Num Pecas": "4",
+        "Preco": 90.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Skier, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-12",
+        "Num Pecas": "5",
+        "Preco": 110.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Skier, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-12",
+        "Num Pecas": "5",
+        "Preco": 120.0
+    },
+    {
+        "Vendedor": "4F BRICK",
+        "Nome": "Skull Sorcerer's Dragon",
+        "ID": "71721-1",
+        "Num Pecas": "966",
+        "Preco": 299.0
+    },
+    {
+        "Vendedor": "minifiguras rs",
+        "Nome": "Skydiver, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-6",
+        "Num Pecas": "",
+        "Preco": 22.8
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Skydiver, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-6",
+        "Num Pecas": "",
+        "Preco": 26.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Skydiver, Series 10 (Complete Set with Stand and Accessories)",
+        "ID": "col10-6",
+        "Num Pecas": "",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Sleepyhead, Series 6 (Complete Set with Stand and Accessories)",
+        "ID": "col06-3",
+        "Num Pecas": "2",
+        "Preco": 200.0
+    },
+    {
+        "Vendedor": "LC Bricks Models",
+        "Nome": "Snail polybag",
+        "ID": "1605-1",
+        "Num Pecas": "14",
+        "Preco": 95.0
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Snail polybag",
+        "ID": "1605-1",
+        "Num Pecas": "14",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Snake Charmer, Series 13 (Complete Set with Stand and Accessories)",
+        "ID": "col13-4",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Snake Charmer, Series 13 (Complete Set with Stand and Accessories)",
+        "ID": "col13-4",
+        "Num Pecas": "3",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Snow Guardian, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-4",
+        "Num Pecas": "4",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Snow Guardian, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-4",
+        "Num Pecas": "4",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Snowboarder Guy, Series 5 (Complete Set with Stand and Accessories)",
+        "ID": "col05-16",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Snowboarder Guy, Series 5 (Complete Set with Stand and Accessories)",
+        "ID": "col05-16",
+        "Num Pecas": "2",
+        "Preco": 73.92
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Snowman polybag",
+        "ID": "30645-1",
+        "Num Pecas": "78",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Snowtrooper Battle Pack",
+        "ID": "75320-1",
+        "Num Pecas": "89",
+        "Preco": 170.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Snowtrooper Battle Pack",
+        "ID": "75320-1",
+        "Num Pecas": "89",
+        "Preco": 179.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Snowtrooper foil pack",
+        "ID": "912179-1",
+        "Num Pecas": "",
+        "Preco": 36.5
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Soccer Field",
+        "ID": "3302-1",
+        "Num Pecas": "2",
+        "Preco": 250.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Soldier's Arsenal",
+        "ID": "8396-1",
+        "Num Pecas": "12",
+        "Preco": 118.5
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Sonic the Hedgehog - Green Hill Zone",
+        "ID": "21331-1",
+        "Num Pecas": "1003",
+        "Preco": 579.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sonic the Hedgehog - Green Hill Zone",
+        "ID": "21331-1",
+        "Num Pecas": "1003",
+        "Preco": 629.99
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Sorcerer's Apprentice Mickey, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-4",
+        "Num Pecas": "5",
+        "Preco": 84.9
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Space Creature, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-11",
+        "Num Pecas": "3",
+        "Preco": 27.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Space Creature, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-11",
+        "Num Pecas": "3",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Space Creature, Series 22 (Complete Set with Stand and Accessories)",
+        "ID": "col22-11",
+        "Num Pecas": "3",
+        "Preco": 34.0
+    },
+    {
+        "Vendedor": "JET BRICKS BH",
+        "Nome": "Space Fan, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-6",
+        "Num Pecas": "6",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Space Fan, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-6",
+        "Num Pecas": "6",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Space Fan, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-6",
+        "Num Pecas": "6",
+        "Preco": 40.5
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Space Fan, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-6",
+        "Num Pecas": "6",
+        "Preco": 49.97
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Space Miner, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-6",
+        "Num Pecas": "3",
+        "Preco": 36.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Space Police Guy, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-10",
+        "Num Pecas": "6",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Space Police Guy, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-10",
+        "Num Pecas": "6",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Space Police Guy, Series 21 (Complete Set with Stand and Accessories)",
+        "ID": "col21-10",
+        "Num Pecas": "6",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Space Roller Coaster",
+        "ID": "31142-1",
+        "Num Pecas": "852",
+        "Preco": 863.99
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Space Roller Coaster",
+        "ID": "31142-1",
+        "Num Pecas": "852",
+        "Preco": 899.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Space Shuttle",
+        "ID": "31134-1",
+        "Num Pecas": "144",
+        "Preco": 89.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Spaceman, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "col01-13",
+        "Num Pecas": "3",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Specter, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-7",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Speedy Gonzales (Complete Set with Stand and Accessories)",
+        "ID": "collt-8",
+        "Num Pecas": "4",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Speedy Gonzales (Complete Set with Stand and Accessories)",
+        "ID": "collt-8",
+        "Num Pecas": "4",
+        "Preco": 36.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Speedy Gonzales (Complete Set with Stand and Accessories)",
+        "ID": "collt-8",
+        "Num Pecas": "4",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Spider Lady, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-16",
+        "Num Pecas": "2",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Spider Lady, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-16",
+        "Num Pecas": "2",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Spider Suit Boy, Series 18 (Complete Set with Stand and Accessories)",
+        "ID": "col18-9",
+        "Num Pecas": "2",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Spider-Man Bridge Battle polybag",
+        "ID": "30443-1",
+        "Num Pecas": "42",
+        "Preco": 124.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Spider-Man Super Jumper polybag",
+        "ID": "30305-1",
+        "Num Pecas": "35",
+        "Preco": 58.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Spider-Man vs. Mysterio's Drone Attack",
+        "ID": "76184-1",
+        "Num Pecas": "62",
+        "Preco": 161.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Spider-Man's Car and Doc Ock",
+        "ID": "10789-1",
+        "Num Pecas": "36",
+        "Preco": 89.9
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Spider-Man's Car and Doc Ock",
+        "ID": "10789-1",
+        "Num Pecas": "36",
+        "Preco": 99.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Spider-Man's House",
+        "ID": "10995-1",
+        "Num Pecas": "23",
+        "Preco": 99.0
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Spider-Man’s Techno Trike",
+        "ID": "10781-1",
+        "Num Pecas": "52",
+        "Preco": 99.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Spiny, Super Mario, Series 1 (Complete Set)",
+        "ID": "char01-3",
+        "Num Pecas": "12",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Spiny, Super Mario, Series 1 (Complete Set)",
+        "ID": "char01-3",
+        "Num Pecas": "12",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Spiny, Super Mario, Series 1 (Complete Set)",
+        "ID": "char01-3",
+        "Num Pecas": "12",
+        "Preco": 44.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Sprinter, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-4",
+        "Num Pecas": "2",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Sprinter, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-4",
+        "Num Pecas": "2",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Sprinter, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-4",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Sprinter, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-4",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Sprinter, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-4",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "JET BRICKS BH",
+        "Nome": "Sprinter, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-4",
+        "Num Pecas": "2",
+        "Preco": 49.9
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Square Foot, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-15",
+        "Num Pecas": "2",
+        "Preco": 34.5
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Square Foot, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-15",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Square Foot, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-15",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Stargirl, DC Super Heroes (Complete Set with Stand and Accessories)",
+        "ID": "colsh-4",
+        "Num Pecas": "5",
+        "Preco": 44.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Statler, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-10",
+        "Num Pecas": "4",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Statler, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-10",
+        "Num Pecas": "4",
+        "Preco": 37.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Statler, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-10",
+        "Num Pecas": "4",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Stealthor foil pack",
+        "ID": "LOC391507-1",
+        "Num Pecas": "2",
+        "Preco": 39.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Steam Engine {Reissue of Set 7810}",
+        "ID": "40370-1",
+        "Num Pecas": "184",
+        "Preco": 370.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Stitch",
+        "ID": "40674-1",
+        "Num Pecas": "152",
+        "Preco": 199.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Sugar Fairy, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-2",
+        "Num Pecas": "2",
+        "Preco": 34.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Sugar Fairy, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-2",
+        "Num Pecas": "2",
+        "Preco": 34.5
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Sugar Fairy, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-2",
+        "Num Pecas": "2",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Sugar Fairy, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-2",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Summer Celebration Minifigure Set blister pack",
+        "ID": "40344-1",
+        "Num Pecas": "26",
+        "Preco": 150.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Sumo Bro, Super Mario, Series 6 (Complete Set)",
+        "ID": "char06-6",
+        "Num Pecas": "19",
+        "Preco": 36.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Super Mushroom Surprise - Expansion Set polybag",
+        "ID": "30385-1",
+        "Num Pecas": "10",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "e.Leal.br's Bricks",
+        "Nome": "Super Robot",
+        "ID": "31124-1",
+        "Num Pecas": "159",
+        "Preco": 71.91
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Super Secret Police Enforcer polybag",
+        "ID": "30282-1",
+        "Num Pecas": "35",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Super Warrior, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-9",
+        "Num Pecas": "2",
+        "Preco": 35.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Super Warrior, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-9",
+        "Num Pecas": "2",
+        "Preco": 40.4
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Super Warrior, Series 20 (Complete Set with Stand and Accessories)",
+        "ID": "col20-9",
+        "Num Pecas": "2",
+        "Preco": 49.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Surfer Beach House",
+        "ID": "31118-1",
+        "Num Pecas": "556",
+        "Preco": 449.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Surfer Girl, Series 4 (Complete Set with Stand and Accessories)",
+        "ID": "col04-5",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Surfer Girl, Series 4 (Complete Set with Stand and Accessories)",
+        "ID": "col04-5",
+        "Num Pecas": "2",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Swamp Creature, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-10",
+        "Num Pecas": "2",
+        "Preco": 26.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Swamp Creature, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-10",
+        "Num Pecas": "2",
+        "Preco": 29.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Swamp Creature, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-10",
+        "Num Pecas": "2",
+        "Preco": 36.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Swashbuckler, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-13",
+        "Num Pecas": "2",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Swashbuckler, Series 12 (Complete Set with Stand and Accessories)",
+        "ID": "col12-13",
+        "Num Pecas": "2",
+        "Preco": 70.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Swedish Chef, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-11",
+        "Num Pecas": "4",
+        "Preco": 29.9
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Swedish Chef, The Muppets (Complete Set with Stand and Accessories)",
+        "ID": "coltm-11",
+        "Num Pecas": "4",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Swimming Champion, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-1",
+        "Num Pecas": "",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Bloco Digital",
+        "Nome": "Switching Tracks",
+        "ID": "7895-1",
+        "Num Pecas": "8",
+        "Preco": 182.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Swoop, Super Mario, Series 3 (Complete Set)",
+        "ID": "char03-5",
+        "Num Pecas": "14",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Sylvie, Marvel Studios, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colmar-7",
+        "Num Pecas": "5",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Syndrome, Disney, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "coldis-14",
+        "Num Pecas": "2",
+        "Preco": 36.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "T-Rex Costume Fan, Series 24 (Complete Set with Stand and Accessories)",
+        "ID": "col24-6",
+        "Num Pecas": "",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "T. rex & Atrociraptor Dinosaur Breakout",
+        "ID": "76948-1",
+        "Num Pecas": "442",
+        "Preco": 799.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Taco Tuesday Guy, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-12",
+        "Num Pecas": "4",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Taco Tuesday Guy, The LEGO Movie (Complete Set with Stand and Accessories)",
+        "ID": "coltlm-12",
+        "Num Pecas": "4",
+        "Preco": 80.0
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Taj Mahal {Reissue}",
+        "ID": "10256-1",
+        "Num Pecas": "5923",
+        "Preco": 3999.97
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Tales of the Space Age",
+        "ID": "21340-1",
+        "Num Pecas": "688",
+        "Preco": 430.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Tatooine Homestead",
+        "ID": "40451-1",
+        "Num Pecas": "217",
+        "Preco": 180.49
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Temple of the Golden Idol",
+        "ID": "77015-1",
+        "Num Pecas": "1523",
+        "Preco": 1259.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Tennis Ace, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-9",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Tennis Ace, Series 7 (Complete Set with Stand and Accessories)",
+        "ID": "col07-9",
+        "Num Pecas": "2",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Thanos Mech",
+        "ID": "76141-1",
+        "Num Pecas": "148",
+        "Preco": 160.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The \"Abandoned\" Mine",
+        "ID": "21166-1",
+        "Num Pecas": "242",
+        "Preco": 139.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "The Batman - Batcycle",
+        "ID": "42155-1",
+        "Num Pecas": "641",
+        "Preco": 420.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Batman - Batcycle",
+        "ID": "42155-1",
+        "Num Pecas": "641",
+        "Preco": 455.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Batman - Batmobile",
+        "ID": "42127-1",
+        "Num Pecas": "1360",
+        "Preco": 999.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "The Cowler Dragon polybag",
+        "ID": "30294-1",
+        "Num Pecas": "40",
+        "Preco": 72.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Crystal King Temple",
+        "ID": "71771-1",
+        "Num Pecas": "671",
+        "Preco": 719.99
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "The Dripstone Cavern polybag",
+        "ID": "30647-1",
+        "Num Pecas": "38",
+        "Preco": 39.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Flintstones",
+        "ID": "21316-1",
+        "Num Pecas": "732",
+        "Preco": 1139.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Friends Apartments",
+        "ID": "10292-1",
+        "Num Pecas": "2019",
+        "Preco": 1249.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Great Pyramid of Giza",
+        "ID": "21058-1",
+        "Num Pecas": "1476",
+        "Preco": 1899.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "The Hulkbuster Smash-Up",
+        "ID": "76104-1",
+        "Num Pecas": "354",
+        "Preco": 520.0
+    },
+    {
+        "Vendedor": "Andre Store",
+        "Nome": "The Hulkbuster: Ultron Edition",
+        "ID": "76105-1",
+        "Num Pecas": "1358",
+        "Preco": 1031.06
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "The Hydra Fortress Smash",
+        "ID": "76041-1",
+        "Num Pecas": "384",
+        "Preco": 1240.0
+    },
+    {
+        "Vendedor": "Mister Block",
+        "Nome": "The Illager Raid",
+        "ID": "21160-1",
+        "Num Pecas": "545",
+        "Preco": 479.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "The Joker Battle Training polybag",
+        "ID": "30523-1",
+        "Num Pecas": "44",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "The Joker Bumper Car polybag",
+        "ID": "30303-1",
+        "Num Pecas": "43",
+        "Preco": 100.0
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "The Knockdown Stunt Challenge",
+        "ID": "60341-1",
+        "Num Pecas": "109",
+        "Preco": 229.0
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "The Lab polybag",
+        "ID": "30111-1",
+        "Num Pecas": "30",
+        "Preco": 160.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Little Mermaid Story Book",
+        "ID": "43213-1",
+        "Num Pecas": "124",
+        "Preco": 161.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Madrigal House",
+        "ID": "43202-1",
+        "Num Pecas": "576",
+        "Preco": 474.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "The Milano Spaceship Rescue",
+        "ID": "76021-1",
+        "Num Pecas": "643",
+        "Preco": 1573.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "The Ministry of Magic",
+        "ID": "76403-1",
+        "Num Pecas": "948",
+        "Preco": 900.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Ministry of Magic",
+        "ID": "76403-1",
+        "Num Pecas": "948",
+        "Preco": 999.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Monster, Series 4 (Complete Set with Stand and Accessories)",
+        "ID": "col04-7",
+        "Num Pecas": "",
+        "Preco": 65.0
+    },
+    {
+        "Vendedor": "Mister Block",
+        "Nome": "The Panda Nursery",
+        "ID": "21158-1",
+        "Num Pecas": "201",
+        "Preco": 159.99
+    },
+    {
+        "Vendedor": "Mister Block",
+        "Nome": "The Pig House",
+        "ID": "21170-1",
+        "Num Pecas": "483",
+        "Preco": 399.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Pirate Ship Adventure",
+        "ID": "21152-1",
+        "Num Pecas": "376",
+        "Preco": 399.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The Upside Down",
+        "ID": "75810-1",
+        "Num Pecas": "2254",
+        "Preco": 3999.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "The Vision, Marvel Studios, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colmar-2",
+        "Num Pecas": "6",
+        "Preco": 59.0
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "The Warped Forest",
+        "ID": "21168-1",
+        "Num Pecas": "276",
+        "Preco": 130.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "The Werewolf, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-4",
+        "Num Pecas": "4",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "The Werewolf, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-4",
+        "Num Pecas": "4",
+        "Preco": 36.0
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "The Werewolf, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-4",
+        "Num Pecas": "4",
+        "Preco": 36.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "The Werewolf, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-4",
+        "Num Pecas": "4",
+        "Preco": 41.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "The Werewolf, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "colmar2-4",
+        "Num Pecas": "4",
+        "Preco": 59.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "The White House",
+        "ID": "21054-1",
+        "Num Pecas": "1483",
+        "Preco": 1079.99
+    },
+    {
+        "Vendedor": "TheCollectorStore",
+        "Nome": "Thor vs. Hulk: Arena Clash",
+        "ID": "76088-1",
+        "Num Pecas": "468",
+        "Preco": 655.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Thwomp Drop - Expansion Set",
+        "ID": "71376-1",
+        "Num Pecas": "257",
+        "Preco": 339.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Tiana, Disney 100 (Complete Set with Stand and Accessories)",
+        "ID": "coldis100-5",
+        "Num Pecas": "3",
+        "Preco": 42.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "TIE Bomber",
+        "ID": "75347-1",
+        "Num Pecas": "598",
+        "Preco": 588.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Tiger Woman, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-9",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Brinque Aqui",
+        "Nome": "Tiger Woman, Series 14 (Complete Set with Stand and Accessories)",
+        "ID": "col14-9",
+        "Num Pecas": "2",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Tin Man, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-19",
+        "Num Pecas": "3",
+        "Preco": 60.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Tin Man, The LEGO Movie 2 (Complete Set with Stand and Accessories)",
+        "ID": "coltlm2-19",
+        "Num Pecas": "3",
+        "Preco": 75.0
+    },
+    {
+        "Vendedor": "Bricks 41",
+        "Nome": "Tina Goldstein, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-18",
+        "Num Pecas": "4",
+        "Preco": 21.9
+    },
+    {
+        "Vendedor": "Viegas Brick Shop",
+        "Nome": "Tina Goldstein, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-18",
+        "Num Pecas": "4",
+        "Preco": 29.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Tina Goldstein, Harry Potter, Series 1 (Complete Set with Stand and Accessories)",
+        "ID": "colhp-18",
+        "Num Pecas": "4",
+        "Preco": 40.49
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "Toad's Treasure Hunt - Expansion Set",
+        "ID": "71368-1",
+        "Num Pecas": "390",
+        "Preco": 299.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Toad's Treasure Hunt - Expansion Set",
+        "ID": "71368-1",
+        "Num Pecas": "390",
+        "Preco": 325.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Toad's Treasure Hunt - Expansion Set",
+        "ID": "71368-1",
+        "Num Pecas": "390",
+        "Preco": 389.99
+    },
+    {
+        "Vendedor": "VAG Brick Shop",
+        "Nome": "Tokyo",
+        "ID": "21051-1",
+        "Num Pecas": "547",
+        "Preco": 400.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Torpedo Ted, Super Mario, Series 3 (Complete Set)",
+        "ID": "char03-8",
+        "Num Pecas": "8",
+        "Preco": 32.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Touring Stunt Bike",
+        "ID": "60331-1",
+        "Num Pecas": "5",
+        "Preco": 49.9
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Townhouse Toy Store",
+        "ID": "31105-1",
+        "Num Pecas": "546",
+        "Preco": 379.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Toys \"R\" Us Truck",
+        "ID": "7848-1",
+        "Num Pecas": "344",
+        "Preco": 699.99
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Tracks and Curves",
+        "ID": "60205-1",
+        "Num Pecas": "20",
+        "Preco": 199.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Trafalgar Square",
+        "ID": "21045-1",
+        "Num Pecas": "1197",
+        "Preco": 1079.99
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Traffic Cop, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-6",
+        "Num Pecas": "3",
+        "Preco": 36.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Traffic Cop, Series 2 (Complete Set with Stand and Accessories)",
+        "ID": "col02-6",
+        "Num Pecas": "3",
+        "Preco": 50.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Train Kid, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-10",
+        "Num Pecas": "",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Train Kid, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-10",
+        "Num Pecas": "",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Train Kid, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-10",
+        "Num Pecas": "",
+        "Preco": 46.95
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Train Station",
+        "ID": "60335-1",
+        "Num Pecas": "883",
+        "Preco": 949.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Trash Chomper",
+        "ID": "70805-1",
+        "Num Pecas": "377",
+        "Preco": 249.99
+    },
+    {
+        "Vendedor": "Stack Brick - Sets Raros",
+        "Nome": "Tree House",
+        "ID": "21318-1",
+        "Num Pecas": "3020",
+        "Preco": 1999.97
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Tree House",
+        "ID": "21318-1",
+        "Num Pecas": "3020",
+        "Preco": 2280.0
+    },
+    {
+        "Vendedor": "Monta Monta",
+        "Nome": "Tribute to LEGO House",
+        "ID": "40563-1",
+        "Num Pecas": "583",
+        "Preco": 199.0
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Triceratops Costume Fan, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-8",
+        "Num Pecas": "",
+        "Preco": 36.99
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Triceratops Costume Fan, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-8",
+        "Num Pecas": "",
+        "Preco": 38.0
+    },
+    {
+        "Vendedor": "BRICKS+.",
+        "Nome": "Triceratops Costume Fan, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-8",
+        "Num Pecas": "",
+        "Preco": 38.5
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Triceratops Costume Fan, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-8",
+        "Num Pecas": "",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "JET BRICKS BH",
+        "Nome": "Triceratops Costume Fan, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-8",
+        "Num Pecas": "",
+        "Preco": 49.9
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Triceratops Costume Fan, Series 25 (Complete Set with Stand and Accessories)",
+        "ID": "col25-8",
+        "Num Pecas": "",
+        "Preco": 55.99
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Triceratops Research",
+        "ID": "76959-1",
+        "Num Pecas": "268",
+        "Preco": 379.9
+    },
+    {
+        "Vendedor": "Minas Brick",
+        "Nome": "Tulips",
+        "ID": "40461-1",
+        "Num Pecas": "111",
+        "Preco": 196.44
+    },
+    {
+        "Vendedor": "Brick Alley RS",
+        "Nome": "Turkey Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-9",
+        "Num Pecas": "3",
+        "Preco": 34.9
+    },
+    {
+        "Vendedor": "NybborBrick",
+        "Nome": "Turkey Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-9",
+        "Num Pecas": "3",
+        "Preco": 35.0
+    },
+    {
+        "Vendedor": "Brick U",
+        "Nome": "Turkey Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-9",
+        "Num Pecas": "3",
+        "Preco": 35.9
+    },
+    {
+        "Vendedor": "PIRANOBLOCO",
+        "Nome": "Turkey Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-9",
+        "Num Pecas": "3",
+        "Preco": 37.5
+    },
+    {
+        "Vendedor": "Toys Fun ( sets brasil)",
+        "Nome": "Turkey Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-9",
+        "Num Pecas": "3",
+        "Preco": 39.0
+    },
+    {
+        "Vendedor": "Mundo Kids",
+        "Nome": "Turkey Costume, Series 23 (Complete Set with Stand and Accessories)",
+        "ID": "col23-9",
+        "Num Pecas": "3",
+        "Preco": 40.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Tweety Bird (Complete Set with Stand and Accessories)",
+        "ID": "collt-5",
+        "Num Pecas": "7",
+        "Preco": 45.0
+    },
+    {
+        "Vendedor": "SR BRICKS > até 30% OFF",
+        "Nome": "Typewriter",
+        "ID": "21327-1",
+        "Num Pecas": "2079",
+        "Preco": 2249.99
+    }
+]
