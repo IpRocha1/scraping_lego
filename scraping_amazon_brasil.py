@@ -9,9 +9,8 @@ import time
 
 class AmazonBrasil:
     
-    def __init__(self, qtdItens):
+    def __init__(self):
         self.legos = []
-        self.qtdItens = qtdItens
         
     # Busca no site da Amazon Brasil
     def scraping_amazon_brasil(self):
@@ -31,8 +30,17 @@ class AmazonBrasil:
         
         site = BeautifulSoup(browser.page_source, "html.parser")
         time.sleep(10)
+
+        qtdItens = site.find('div', class_='a-section a-spacing-small a-spacing-top-small').text.strip()
         
-        ultima_pagina = math.ceil(int(self.qtdItens)/24)
+
+        # Encontrar a posicao
+        inicioQtd = qtdItens.find('mais de ')
+        fimQtd = qtdItens.find(' resultados')
+
+        qtdItens = int((qtdItens[inicioQtd + len("mais de "):fimQtd].strip()).replace('.',''))
+
+        ultima_pagina = math.ceil((qtdItens)/24)
         
         for i in range(1, ultima_pagina + 1):
             url = f"https://www.amazon.com.br/s?k=lego&i=toys&rh=n%3A16194299011%2Cp_89%3ALEGO&page={i}"
@@ -50,7 +58,7 @@ class AmazonBrasil:
             padrao_id_inicio = r'(\d+) LEGO ([\w\s,]+?) (\d+) peças?'
                     
             for produto in produtos:
-                if len(self.legos) >= self.qtdItens:
+                if len(self.legos) >= qtdItens:
                     break
                 
                 # Extrair informacoes do produto
@@ -62,6 +70,8 @@ class AmazonBrasil:
                     preco_r = produto.find('span', class_=re.compile('a-offscreen')).get_text().strip()
                     preco = float(preco_r.replace('R$', '').replace('.', '').replace(',', '.').strip())
                 except AttributeError:
+                    preco = None
+                except ValueError:
                     preco = None
                 # print(info, preco)
                 
@@ -105,7 +115,8 @@ class AmazonBrasil:
                     "Nome": nome,
                     "ID": id_produto,
                     "Num Pecas": quantidade_pecas,
-                    "Preco": preco
+                    "Preco": preco,
+                    "URL": url
                 }
                 
                 self.legos.append(lego)
@@ -115,13 +126,10 @@ class AmazonBrasil:
         
         browser.quit()
         
-        # print(len(self.legos))
+        print(len(self.legos))
         # Escrever os resultados no JSON
         with open("legos_amazon_brasil.json", "w", encoding="utf-8") as arquivo_json:
             json.dump(self.legos, arquivo_json, ensure_ascii=False, indent=4)
-    
-# Quantidade de itens
-qtd_itens = 1100
 
-captura = AmazonBrasil(qtd_itens)
+captura = AmazonBrasil()
 captura.scraping_amazon_brasil()

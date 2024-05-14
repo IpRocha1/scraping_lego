@@ -11,8 +11,11 @@ class LegoStore:
         
         # Listar os arquivos JSON
         arquivos = [arq for arq in os.listdir('./json_lego_store') if arq.lower().endswith('.json')]
+        cont = 0
                
         for arquivo in arquivos:
+            cont = cont + 1
+            url = f'https://www.legostore.com.br/temas/?page={cont}'
             
             # Armazenar os IDs de cada produto do JSON
             id_produtos = []
@@ -38,20 +41,20 @@ class LegoStore:
                 except KeyError:
                     num_pecas = None
                     
-                resultado = {
+                lego = {
                     "Vendedor": 'lego Store Brasil',
                     "Nome": data['Product:sp-'+id+'.items({\"filter\":\"ALL\"}).0']['nameComplete'],
                     "ID": data['Product:sp-'+id+'.items({\"filter\":\"ALL\"}).0']['complementName'],
                     "Num Pecas": num_pecas,
-                    "Preco": data['$Product:sp-'+id+'.priceRange.sellingPrice']['lowPrice']
+                    "Preco": data['$Product:sp-'+id+'.priceRange.sellingPrice']['lowPrice'],
+                    "URL": url,
                 }
-                self.legos.append(resultado)     
+                self.legos.append(lego)     
     
-        # print(len(self.legos))
+        print(len(self.legos))
         # Escrever os resultados no JSON
         with open("legos_lego_store_brasil.json", "w", encoding="utf-8") as arquivo_json:
             json.dump(self.legos, arquivo_json, ensure_ascii=False, indent=4)
-
         
 captura = LegoStore()
 captura.captura_produtos()    

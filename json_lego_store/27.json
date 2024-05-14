@@ -1,1896 +1,4 @@
 {
-    "Product:sp-2003173": {
-        "cacheId": "sp-2003173",
-        "productId": "2003173",
-        "description": "Construa e reconstrua um Submarino, um robô ou Guindaste subaquático com este conjunto LEGO® Creator 3 em 1!\r\n\r\n•Desfrute de 3 opções de construção com este conjunto LEGO® Creator 3em1. \r\n\r\n•Construa o Robô Subaquático e a arraia e, em seguida, reconstrua-o para criar um submarino com um braço manipulador ou um centro de caça ao tesouro do Guindaste subaquático.\r\n\r\n•Robô Subaquático com mais de 14cm de altura.\r\n•A arraia mede 3cm de altura, 6cm de comprimento e 7cm de largura.\r\n•O Submarine mede 9cm de altura, 17cm de comprimento e 13cm de largura.\r\n•O Guindaste subaquático mede 12cm de altura, 13cm de comprimento e 18cm de largura.\r\n\r\n•São 207 peças - Recomendado para fãs LEGO a partir de 7 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas.",
-        "productName": "LEGO Creator - Modelo 3 Em 1: Exploração Subaquática",
-        "productReference": "4111131090",
-        "linkText": "lego-creator-modelo-3-em-1-exploracao-subaquatica",
-        "brand": "LEGO",
-        "brandId": 2000000,
-        "link": "/lego-creator-modelo-3-em-1-exploracao-subaquatica/p",
-        "categories": {
-            "type": "json",
-            "json": [
-                "/Temas/Creator/",
-                "/Temas/"
-            ]
-        },
-        "categoryId": "1000011",
-        "releaseDate": "1548028800000",
-        "priceRange": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003173.priceRange",
-            "typename": "ProductPriceRange"
-        },
-        "specificationGroups": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.0",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.1",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.2",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.3",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4",
-                "typename": "SpecificationGroup"
-            }
-        ],
-        "skuSpecifications": [],
-        "productClusters": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.0",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.1",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.2",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.3",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.4",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.5",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.6",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.7",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.8",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.9",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.10",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.11",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.12",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.13",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.productClusters.14",
-                "typename": "ProductClusters"
-            }
-        ],
-        "clusterHighlights": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.clusterHighlights.0",
-                "typename": "ClusterHighlight"
-            }
-        ],
-        "properties": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.0",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.1",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.2",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.3",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.4",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.5",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.6",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.7",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.properties.8",
-                "typename": "Property"
-            }
-        ],
-        "__typename": "Product",
-        "advertisement": null,
-        "items({\"filter\":\"ALL\"})": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.items({\"filter\":\"ALL\"}).0",
-                "typename": "SKU"
-            }
-        ],
-        "selectedProperties": null,
-        "rule": null
-    },
-    "$Product:sp-2003173.priceRange.sellingPrice": {
-        "highPrice": 0,
-        "lowPrice": null,
-        "__typename": "PriceRange"
-    },
-    "$Product:sp-2003173.priceRange": {
-        "sellingPrice": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003173.priceRange.sellingPrice",
-            "typename": "PriceRange"
-        },
-        "listPrice": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003173.priceRange.listPrice",
-            "typename": "PriceRange"
-        },
-        "__typename": "ProductPriceRange"
-    },
-    "$Product:sp-2003173.priceRange.listPrice": {
-        "highPrice": 0,
-        "lowPrice": null,
-        "__typename": "PriceRange"
-    },
-    "Product:sp-2003173.specificationGroups.0": {
-        "name": "Advertências",
-        "originalName": "Advertências",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.0.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.0.specifications.1",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003173.specificationGroups.0.specifications.0": {
-        "name": "Recomendações (pdp)",
-        "originalName": "Recomendações (pdp)",
-        "values": {
-            "type": "json",
-            "json": [
-                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.0.specifications.1": {
-        "name": "naorecomendado_3anos",
-        "originalName": "naorecomendado_3anos",
-        "values": {
-            "type": "json",
-            "json": [
-                "Sim"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.1": {
-        "name": "Campos Internos",
-        "originalName": "Campos Internos",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.1.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003173.specificationGroups.1.specifications.0": {
-        "name": "Cod LEGO",
-        "originalName": "Cod LEGO",
-        "values": {
-            "type": "json",
-            "json": [
-                "31090"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.2": {
-        "name": "Informações Técnicas",
-        "originalName": "Informações Técnicas",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.2.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.2.specifications.1",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.2.specifications.2",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.2.specifications.3",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003173.specificationGroups.2.specifications.0": {
-        "name": "Vídeos",
-        "originalName": "Vídeos",
-        "values": {
-            "type": "json",
-            "json": [
-                "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nJT_pz8TDPY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.2.specifications.1": {
-        "name": "Descrição Comercial",
-        "originalName": "Descrição Comercial",
-        "values": {
-            "type": "json",
-            "json": [
-                "Parta para o fundo do oceano em busca de ouro com o incrível Robô Subaquático; inclui enormes articulações flexíveis, grande capacete transparente com um olho de robô vermelho, recipientes de lastro e pés enormes para caminhar no fundo do mar. Pegue em objetos e perfure amostras com a mão esquerda do robô em forma de garra e transporte objetos com a sua mão direita de agarrar. Mas tenha cuidado com a raia-manta que tem uma cauda pontiaguda! Reconstrua o robô para criar um Submarino de exploração do fundo do mar com um braço manobrável ou um Guindaste Subaquático de base de caça ao tesouro.\r\n\r\n•Desfrute de 3 opções de construção com este conjunto LEGO® Creator 3em1. \r\n\r\n•Construa o Robô Subaquático e a arraia e, em seguida, reconstrua-o para criar um submarino com um braço manipulador ou um centro de caça ao tesouro do Guindaste subaquático.\r\n\r\n•Robô Subaquático com mais de 14cm de altura.\r\n•A arraia mede 3cm de altura, 6cm de comprimento e 7cm de largura.\r\n•O Submarine mede 9cm de altura, 17cm de comprimento e 13cm de largura.\r\n•O Guindaste subaquático mede 12cm de altura, 13cm de comprimento e 18cm de largura.\r\n\r\n•São 207 peças - Recomendado para fãs LEGO a partir de 7 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.2.specifications.2": {
-        "name": "Número de peças",
-        "originalName": "Número de peças",
-        "values": {
-            "type": "json",
-            "json": [
-                "207"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.2.specifications.3": {
-        "name": "Idade Mínima",
-        "originalName": "Idade Mínima",
-        "values": {
-            "type": "json",
-            "json": [
-                "7"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.3": {
-        "name": "Filtros Site",
-        "originalName": "Filtros Site",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.3.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003173.specificationGroups.3.specifications.0": {
-        "name": "Idade",
-        "originalName": "Idade",
-        "values": {
-            "type": "json",
-            "json": [
-                "4 anos ou mais",
-                "8 anos ou mais",
-                "12 anos ou mais"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4": {
-        "name": "allSpecifications",
-        "originalName": "allSpecifications",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.1",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.2",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.3",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.4",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.5",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.6",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.7",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.specificationGroups.4.specifications.8",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.0": {
-        "name": "Vídeos",
-        "originalName": "Vídeos",
-        "values": {
-            "type": "json",
-            "json": [
-                "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nJT_pz8TDPY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.1": {
-        "name": "Descrição Comercial",
-        "originalName": "Descrição Comercial",
-        "values": {
-            "type": "json",
-            "json": [
-                "Parta para o fundo do oceano em busca de ouro com o incrível Robô Subaquático; inclui enormes articulações flexíveis, grande capacete transparente com um olho de robô vermelho, recipientes de lastro e pés enormes para caminhar no fundo do mar. Pegue em objetos e perfure amostras com a mão esquerda do robô em forma de garra e transporte objetos com a sua mão direita de agarrar. Mas tenha cuidado com a raia-manta que tem uma cauda pontiaguda! Reconstrua o robô para criar um Submarino de exploração do fundo do mar com um braço manobrável ou um Guindaste Subaquático de base de caça ao tesouro.\r\n\r\n•Desfrute de 3 opções de construção com este conjunto LEGO® Creator 3em1. \r\n\r\n•Construa o Robô Subaquático e a arraia e, em seguida, reconstrua-o para criar um submarino com um braço manipulador ou um centro de caça ao tesouro do Guindaste subaquático.\r\n\r\n•Robô Subaquático com mais de 14cm de altura.\r\n•A arraia mede 3cm de altura, 6cm de comprimento e 7cm de largura.\r\n•O Submarine mede 9cm de altura, 17cm de comprimento e 13cm de largura.\r\n•O Guindaste subaquático mede 12cm de altura, 13cm de comprimento e 18cm de largura.\r\n\r\n•São 207 peças - Recomendado para fãs LEGO a partir de 7 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.2": {
-        "name": "Número de peças",
-        "originalName": "Número de peças",
-        "values": {
-            "type": "json",
-            "json": [
-                "207"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.3": {
-        "name": "Idade Mínima",
-        "originalName": "Idade Mínima",
-        "values": {
-            "type": "json",
-            "json": [
-                "7"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.4": {
-        "name": "Idade",
-        "originalName": "Idade",
-        "values": {
-            "type": "json",
-            "json": [
-                "4 anos ou mais",
-                "8 anos ou mais",
-                "12 anos ou mais"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.5": {
-        "name": "Recomendações (pdp)",
-        "originalName": "Recomendações (pdp)",
-        "values": {
-            "type": "json",
-            "json": [
-                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.6": {
-        "name": "naorecomendado_3anos",
-        "originalName": "naorecomendado_3anos",
-        "values": {
-            "type": "json",
-            "json": [
-                "Sim"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.7": {
-        "name": "Cod LEGO",
-        "originalName": "Cod LEGO",
-        "values": {
-            "type": "json",
-            "json": [
-                "31090"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.specificationGroups.4.specifications.8": {
-        "name": "sellerId",
-        "originalName": "sellerId",
-        "values": {
-            "type": "json",
-            "json": [
-                "1"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003173.productClusters.0": {
-        "id": "135",
-        "name": "LegoHome",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.1": {
-        "id": "136",
-        "name": "Depto Temas",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.2": {
-        "id": "149",
-        "name": "googleshopping",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.3": {
-        "id": "157",
-        "name": "LEGO Meninos",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.4": {
-        "id": "158",
-        "name": "LEGO Meninas",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.5": {
-        "id": "171",
-        "name": "todos-os-produtos",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.6": {
-        "id": "176",
-        "name": "marketplace",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.7": {
-        "id": "192",
-        "name": "Os Mais Vendidos",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.8": {
-        "id": "206",
-        "name": "Robôs",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.9": {
-        "id": "209",
-        "name": "Lego",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.10": {
-        "id": "212",
-        "name": "Todos Os Produtos LEGO",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.11": {
-        "id": "214",
-        "name": "DataLancamento-teste(Em até 9 dias)",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.12": {
-        "id": "215",
-        "name": "All Products",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.13": {
-        "id": "230",
-        "name": "Google Shopping LEE",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.productClusters.14": {
-        "id": "240",
-        "name": "Férias com LEGO",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003173.clusterHighlights.0": {
-        "id": "214",
-        "name": "DataLancamento-teste(Em até 9 dias)",
-        "__typename": "ClusterHighlight"
-    },
-    "Product:sp-2003173.properties.0": {
-        "name": "Vídeos",
-        "values": {
-            "type": "json",
-            "json": [
-                "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nJT_pz8TDPY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.1": {
-        "name": "Descrição Comercial",
-        "values": {
-            "type": "json",
-            "json": [
-                "Parta para o fundo do oceano em busca de ouro com o incrível Robô Subaquático; inclui enormes articulações flexíveis, grande capacete transparente com um olho de robô vermelho, recipientes de lastro e pés enormes para caminhar no fundo do mar. Pegue em objetos e perfure amostras com a mão esquerda do robô em forma de garra e transporte objetos com a sua mão direita de agarrar. Mas tenha cuidado com a raia-manta que tem uma cauda pontiaguda! Reconstrua o robô para criar um Submarino de exploração do fundo do mar com um braço manobrável ou um Guindaste Subaquático de base de caça ao tesouro.\r\n\r\n•Desfrute de 3 opções de construção com este conjunto LEGO® Creator 3em1. \r\n\r\n•Construa o Robô Subaquático e a arraia e, em seguida, reconstrua-o para criar um submarino com um braço manipulador ou um centro de caça ao tesouro do Guindaste subaquático.\r\n\r\n•Robô Subaquático com mais de 14cm de altura.\r\n•A arraia mede 3cm de altura, 6cm de comprimento e 7cm de largura.\r\n•O Submarine mede 9cm de altura, 17cm de comprimento e 13cm de largura.\r\n•O Guindaste subaquático mede 12cm de altura, 13cm de comprimento e 18cm de largura.\r\n\r\n•São 207 peças - Recomendado para fãs LEGO a partir de 7 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.2": {
-        "name": "Número de peças",
-        "values": {
-            "type": "json",
-            "json": [
-                "207"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.3": {
-        "name": "Idade Mínima",
-        "values": {
-            "type": "json",
-            "json": [
-                "7"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.4": {
-        "name": "Idade",
-        "values": {
-            "type": "json",
-            "json": [
-                "4 anos ou mais",
-                "8 anos ou mais",
-                "12 anos ou mais"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.5": {
-        "name": "Recomendações (pdp)",
-        "values": {
-            "type": "json",
-            "json": [
-                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.6": {
-        "name": "naorecomendado_3anos",
-        "values": {
-            "type": "json",
-            "json": [
-                "Sim"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.7": {
-        "name": "Cod LEGO",
-        "values": {
-            "type": "json",
-            "json": [
-                "31090"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.properties.8": {
-        "name": "sellerId",
-        "values": {
-            "type": "json",
-            "json": [
-                "1"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003173.items({\"filter\":\"ALL\"}).0": {
-        "itemId": "2001696",
-        "name": "LEGO Creator - Modelo 3 Em 1: Exploração Subaquática",
-        "nameComplete": "LEGO Creator - Modelo 3 Em 1: Exploração Subaquática",
-        "complementName": "31090",
-        "ean": "0673419302111",
-        "variations": [],
-        "referenceId": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.items({\"filter\":\"ALL\"}).0.referenceId.0",
-                "typename": "Reference"
-            }
-        ],
-        "measurementUnit": "un",
-        "unitMultiplier": 1,
-        "images": [
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163566",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163567",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163568",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163569",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163570",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163571",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163572",
-                "typename": "Image"
-            }
-        ],
-        "__typename": "SKU",
-        "sellers": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003173.items({\"filter\":\"ALL\"}).0.sellers.0",
-                "typename": "Seller"
-            }
-        ]
-    },
-    "Product:sp-2003173.items({\"filter\":\"ALL\"}).0.referenceId.0": {
-        "Key": "RefId",
-        "Value": "4111131090",
-        "__typename": "Reference"
-    },
-    "Image:163566": {
-        "cacheId": "163566",
-        "imageId": "163566",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163566/31090_prod.jpg?v=636843016292400000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163567": {
-        "cacheId": "163567",
-        "imageId": "163567",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163567/31090_top_03.jpg?v=636843016423070000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163568": {
-        "cacheId": "163568",
-        "imageId": "163568",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163568/31090_back_04.jpg?v=636843016500030000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163569": {
-        "cacheId": "163569",
-        "imageId": "163569",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163569/31090_top_01.jpg?v=636843016596800000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163570": {
-        "cacheId": "163570",
-        "imageId": "163570",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163570/31090_back_03.jpg?v=636843016725000000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163571": {
-        "cacheId": "163571",
-        "imageId": "163571",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163571/31090_front_04.jpg?v=636843016801400000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163572": {
-        "cacheId": "163572",
-        "imageId": "163572",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163572/31090_box1_v29.jpg?v=636843016903200000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Product:sp-2003173.items({\"filter\":\"ALL\"}).0.sellers.0": {
-        "sellerId": "1",
-        "sellerName": "legobrasil",
-        "sellerDefault": false,
-        "__typename": "Seller",
-        "commertialOffer": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003173.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer",
-            "typename": "Offer"
-        }
-    },
-    "$Product:sp-2003173.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer": {
-        "discountHighlights": [],
-        "teasers": [],
-        "Price": 179.99,
-        "ListPrice": 179.99,
-        "Tax": 0,
-        "taxPercentage": 0,
-        "spotPrice": 179.99,
-        "PriceWithoutDiscount": 179.99,
-        "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
-        "AvailableQuantity": 0,
-        "__typename": "Offer",
-        "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
-    },
-    "Product:sp-2003178": {
-        "cacheId": "sp-2003178",
-        "productId": "2003178",
-        "description": "Desça da Torre e brinque com a Rapunzel!\r\n\r\n•Inclui uma figura de mini figura da Rapunzel.\r\n\r\n•Apresenta uma torre do palácio com uma base articulada para abri-lo e jogar no interior.\r\n\r\n•Acessórios incluem uma escova de cabelo e uma frigideira.\r\n\r\n•Crie a torre de jogo Rapunzel fácil de construir e crie suas próprias histórias com uma icônica Princesa da Disney.\r\n\r\n•Guarde todas as peças no interior e leve consigo este brinquedo edificável da Disney Rapunzel para jogar em qualquer lugar.\r\n\r\n•Mede 12cm de altura, 5cm de largura e 4cm de profundidade.\r\n\r\n•São 44 peças - Recomendado para fãs LEGO de 4 a 14 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas.",
-        "productName": "LEGO Disney - Torre da Rapunzel",
-        "productReference": "4111141163",
-        "linkText": "lego-disney-torre-da-rapunzel",
-        "brand": "LEGO",
-        "brandId": 2000000,
-        "link": "/lego-disney-torre-da-rapunzel/p",
-        "categories": {
-            "type": "json",
-            "json": [
-                "/Temas/Disney/",
-                "/Temas/"
-            ]
-        },
-        "categoryId": "1000012",
-        "releaseDate": "1548028800000",
-        "priceRange": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003178.priceRange",
-            "typename": "ProductPriceRange"
-        },
-        "specificationGroups": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.0",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.1",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.2",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.3",
-                "typename": "SpecificationGroup"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4",
-                "typename": "SpecificationGroup"
-            }
-        ],
-        "skuSpecifications": [],
-        "productClusters": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.0",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.1",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.2",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.3",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.4",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.5",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.6",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.7",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.8",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.9",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.10",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.11",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.12",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.13",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.14",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.15",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.16",
-                "typename": "ProductClusters"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.productClusters.17",
-                "typename": "ProductClusters"
-            }
-        ],
-        "clusterHighlights": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.clusterHighlights.0",
-                "typename": "ClusterHighlight"
-            }
-        ],
-        "properties": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.0",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.1",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.2",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.3",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.4",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.5",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.6",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.7",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.8",
-                "typename": "Property"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.properties.9",
-                "typename": "Property"
-            }
-        ],
-        "__typename": "Product",
-        "advertisement": null,
-        "items({\"filter\":\"ALL\"})": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.items({\"filter\":\"ALL\"}).0",
-                "typename": "SKU"
-            }
-        ],
-        "selectedProperties": null,
-        "rule": null
-    },
-    "$Product:sp-2003178.priceRange.sellingPrice": {
-        "highPrice": 0,
-        "lowPrice": null,
-        "__typename": "PriceRange"
-    },
-    "$Product:sp-2003178.priceRange": {
-        "sellingPrice": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003178.priceRange.sellingPrice",
-            "typename": "PriceRange"
-        },
-        "listPrice": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003178.priceRange.listPrice",
-            "typename": "PriceRange"
-        },
-        "__typename": "ProductPriceRange"
-    },
-    "$Product:sp-2003178.priceRange.listPrice": {
-        "highPrice": 0,
-        "lowPrice": null,
-        "__typename": "PriceRange"
-    },
-    "Product:sp-2003178.specificationGroups.0": {
-        "name": "Advertências",
-        "originalName": "Advertências",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.0.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.0.specifications.1",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003178.specificationGroups.0.specifications.0": {
-        "name": "Recomendações (pdp)",
-        "originalName": "Recomendações (pdp)",
-        "values": {
-            "type": "json",
-            "json": [
-                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.0.specifications.1": {
-        "name": "naorecomendado_3anos",
-        "originalName": "naorecomendado_3anos",
-        "values": {
-            "type": "json",
-            "json": [
-                "Sim"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.1": {
-        "name": "Filtros Site",
-        "originalName": "Filtros Site",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.1.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.1.specifications.1",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.1.specifications.2",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003178.specificationGroups.1.specifications.0": {
-        "name": "Destaques",
-        "originalName": "Destaques",
-        "values": {
-            "type": "json",
-            "json": [
-                "Com Desconto"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.1.specifications.1": {
-        "name": "Idade",
-        "originalName": "Idade",
-        "values": {
-            "type": "json",
-            "json": [
-                "4 anos ou mais",
-                "8 anos ou mais",
-                "12 anos ou mais"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.1.specifications.2": {
-        "name": "Interesses",
-        "originalName": "Interesses",
-        "values": {
-            "type": "json",
-            "json": [
-                "Casas",
-                "Princesas"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.2": {
-        "name": "Campos Internos",
-        "originalName": "Campos Internos",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.2.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003178.specificationGroups.2.specifications.0": {
-        "name": "Cod LEGO",
-        "originalName": "Cod LEGO",
-        "values": {
-            "type": "json",
-            "json": [
-                "41163"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.3": {
-        "name": "Informações Técnicas",
-        "originalName": "Informações Técnicas",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.3.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.3.specifications.1",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.3.specifications.2",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003178.specificationGroups.3.specifications.0": {
-        "name": "Descrição Comercial",
-        "originalName": "Descrição Comercial",
-        "values": {
-            "type": "json",
-            "json": [
-                "Brinque na torre do castelo da Princesa Rapunzel da Disney.  Abra a torre fácil de construir para brincar lá dentro, ajude a Rapunzel a escovar o cabelo ou a preparar uma refeição, enquanto ela contempla o mundo lá fora de sua janela. Depois coloque todas as peças dentro da torre e feche-a; está pronta para levar e brincar onde quer que vá!\r\n\r\n•Inclui uma figura de mini figura da Rapunzel.\r\n\r\n•Apresenta uma torre do palácio com uma base articulada para abri-lo e jogar no interior.\r\n\r\n•Acessórios incluem uma escova de cabelo e uma frigideira.\r\n\r\n•Crie a torre de jogo Rapunzel fácil de construir e crie suas próprias histórias com uma icônica Princesa da Disney.\r\n\r\n•Guarde todas as peças no interior e leve consigo este brinquedo edificável da Disney Rapunzel para jogar em qualquer lugar.\r\n\r\n•Mede 12cm de altura, 5cm de largura e 4cm de profundidade.\r\n\r\n•São 44 peças - Recomendado para fãs LEGO de 4 a 14 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.3.specifications.1": {
-        "name": "Número de peças",
-        "originalName": "Número de peças",
-        "values": {
-            "type": "json",
-            "json": [
-                "44"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.3.specifications.2": {
-        "name": "Idade Mínima",
-        "originalName": "Idade Mínima",
-        "values": {
-            "type": "json",
-            "json": [
-                "5"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4": {
-        "name": "allSpecifications",
-        "originalName": "allSpecifications",
-        "specifications": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.0",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.1",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.2",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.3",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.4",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.5",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.6",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.7",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.8",
-                "typename": "SpecificationGroupProperty"
-            },
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.specificationGroups.4.specifications.9",
-                "typename": "SpecificationGroupProperty"
-            }
-        ],
-        "__typename": "SpecificationGroup"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.0": {
-        "name": "Descrição Comercial",
-        "originalName": "Descrição Comercial",
-        "values": {
-            "type": "json",
-            "json": [
-                "Brinque na torre do castelo da Princesa Rapunzel da Disney.  Abra a torre fácil de construir para brincar lá dentro, ajude a Rapunzel a escovar o cabelo ou a preparar uma refeição, enquanto ela contempla o mundo lá fora de sua janela. Depois coloque todas as peças dentro da torre e feche-a; está pronta para levar e brincar onde quer que vá!\r\n\r\n•Inclui uma figura de mini figura da Rapunzel.\r\n\r\n•Apresenta uma torre do palácio com uma base articulada para abri-lo e jogar no interior.\r\n\r\n•Acessórios incluem uma escova de cabelo e uma frigideira.\r\n\r\n•Crie a torre de jogo Rapunzel fácil de construir e crie suas próprias histórias com uma icônica Princesa da Disney.\r\n\r\n•Guarde todas as peças no interior e leve consigo este brinquedo edificável da Disney Rapunzel para jogar em qualquer lugar.\r\n\r\n•Mede 12cm de altura, 5cm de largura e 4cm de profundidade.\r\n\r\n•São 44 peças - Recomendado para fãs LEGO de 4 a 14 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.1": {
-        "name": "Número de peças",
-        "originalName": "Número de peças",
-        "values": {
-            "type": "json",
-            "json": [
-                "44"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.2": {
-        "name": "Idade Mínima",
-        "originalName": "Idade Mínima",
-        "values": {
-            "type": "json",
-            "json": [
-                "5"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.3": {
-        "name": "Destaques",
-        "originalName": "Destaques",
-        "values": {
-            "type": "json",
-            "json": [
-                "Com Desconto"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.4": {
-        "name": "Idade",
-        "originalName": "Idade",
-        "values": {
-            "type": "json",
-            "json": [
-                "4 anos ou mais",
-                "8 anos ou mais",
-                "12 anos ou mais"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.5": {
-        "name": "Interesses",
-        "originalName": "Interesses",
-        "values": {
-            "type": "json",
-            "json": [
-                "Casas",
-                "Princesas"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.6": {
-        "name": "Recomendações (pdp)",
-        "originalName": "Recomendações (pdp)",
-        "values": {
-            "type": "json",
-            "json": [
-                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.7": {
-        "name": "naorecomendado_3anos",
-        "originalName": "naorecomendado_3anos",
-        "values": {
-            "type": "json",
-            "json": [
-                "Sim"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.8": {
-        "name": "Cod LEGO",
-        "originalName": "Cod LEGO",
-        "values": {
-            "type": "json",
-            "json": [
-                "41163"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.specificationGroups.4.specifications.9": {
-        "name": "sellerId",
-        "originalName": "sellerId",
-        "values": {
-            "type": "json",
-            "json": [
-                "1"
-            ]
-        },
-        "__typename": "SpecificationGroupProperty"
-    },
-    "Product:sp-2003178.productClusters.0": {
-        "id": "135",
-        "name": "LegoHome",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.1": {
-        "id": "136",
-        "name": "Depto Temas",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.2": {
-        "id": "149",
-        "name": "googleshopping",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.3": {
-        "id": "156",
-        "name": "LEGO errado",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.4": {
-        "id": "158",
-        "name": "LEGO Meninas",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.5": {
-        "id": "162",
-        "name": "LEGO Classicos do Cinema",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.6": {
-        "id": "171",
-        "name": "todos-os-produtos",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.7": {
-        "id": "176",
-        "name": "marketplace",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.8": {
-        "id": "177",
-        "name": "Disney",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.9": {
-        "id": "192",
-        "name": "Os Mais Vendidos",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.10": {
-        "id": "209",
-        "name": "Lego",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.11": {
-        "id": "212",
-        "name": "Todos Os Produtos LEGO",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.12": {
-        "id": "214",
-        "name": "DataLancamento-teste(Em até 9 dias)",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.13": {
-        "id": "215",
-        "name": "All Products",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.14": {
-        "id": "230",
-        "name": "Google Shopping LEE",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.15": {
-        "id": "240",
-        "name": "Férias com LEGO",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.16": {
-        "id": "267",
-        "name": "Dia das Crianças 2023",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.productClusters.17": {
-        "id": "284",
-        "name": "Somos incríveis",
-        "__typename": "ProductClusters"
-    },
-    "Product:sp-2003178.clusterHighlights.0": {
-        "id": "214",
-        "name": "DataLancamento-teste(Em até 9 dias)",
-        "__typename": "ClusterHighlight"
-    },
-    "Product:sp-2003178.properties.0": {
-        "name": "Descrição Comercial",
-        "values": {
-            "type": "json",
-            "json": [
-                "Brinque na torre do castelo da Princesa Rapunzel da Disney.  Abra a torre fácil de construir para brincar lá dentro, ajude a Rapunzel a escovar o cabelo ou a preparar uma refeição, enquanto ela contempla o mundo lá fora de sua janela. Depois coloque todas as peças dentro da torre e feche-a; está pronta para levar e brincar onde quer que vá!\r\n\r\n•Inclui uma figura de mini figura da Rapunzel.\r\n\r\n•Apresenta uma torre do palácio com uma base articulada para abri-lo e jogar no interior.\r\n\r\n•Acessórios incluem uma escova de cabelo e uma frigideira.\r\n\r\n•Crie a torre de jogo Rapunzel fácil de construir e crie suas próprias histórias com uma icônica Princesa da Disney.\r\n\r\n•Guarde todas as peças no interior e leve consigo este brinquedo edificável da Disney Rapunzel para jogar em qualquer lugar.\r\n\r\n•Mede 12cm de altura, 5cm de largura e 4cm de profundidade.\r\n\r\n•São 44 peças - Recomendado para fãs LEGO de 4 a 14 anos de idade.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.1": {
-        "name": "Número de peças",
-        "values": {
-            "type": "json",
-            "json": [
-                "44"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.2": {
-        "name": "Idade Mínima",
-        "values": {
-            "type": "json",
-            "json": [
-                "5"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.3": {
-        "name": "Destaques",
-        "values": {
-            "type": "json",
-            "json": [
-                "Com Desconto"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.4": {
-        "name": "Idade",
-        "values": {
-            "type": "json",
-            "json": [
-                "4 anos ou mais",
-                "8 anos ou mais",
-                "12 anos ou mais"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.5": {
-        "name": "Interesses",
-        "values": {
-            "type": "json",
-            "json": [
-                "Casas",
-                "Princesas"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.6": {
-        "name": "Recomendações (pdp)",
-        "values": {
-            "type": "json",
-            "json": [
-                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.7": {
-        "name": "naorecomendado_3anos",
-        "values": {
-            "type": "json",
-            "json": [
-                "Sim"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.8": {
-        "name": "Cod LEGO",
-        "values": {
-            "type": "json",
-            "json": [
-                "41163"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.properties.9": {
-        "name": "sellerId",
-        "values": {
-            "type": "json",
-            "json": [
-                "1"
-            ]
-        },
-        "__typename": "Property"
-    },
-    "Product:sp-2003178.items({\"filter\":\"ALL\"}).0": {
-        "itemId": "2001705",
-        "name": "LEGO Disney - Torre da Rapunzel",
-        "nameComplete": "LEGO Disney - Torre da Rapunzel",
-        "complementName": "41163",
-        "ean": "0673419301633",
-        "variations": [],
-        "referenceId": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.items({\"filter\":\"ALL\"}).0.referenceId.0",
-                "typename": "Reference"
-            }
-        ],
-        "measurementUnit": "un",
-        "unitMultiplier": 1,
-        "images": [
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163381",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163382",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163383",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163384",
-                "typename": "Image"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Image:163385",
-                "typename": "Image"
-            }
-        ],
-        "__typename": "SKU",
-        "sellers": [
-            {
-                "type": "id",
-                "generated": true,
-                "id": "Product:sp-2003178.items({\"filter\":\"ALL\"}).0.sellers.0",
-                "typename": "Seller"
-            }
-        ]
-    },
-    "Product:sp-2003178.items({\"filter\":\"ALL\"}).0.referenceId.0": {
-        "Key": "RefId",
-        "Value": "4111141163",
-        "__typename": "Reference"
-    },
-    "Image:163381": {
-        "cacheId": "163381",
-        "imageId": "163381",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163381/41163_prod.jpg?v=636836867962730000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163382": {
-        "cacheId": "163382",
-        "imageId": "163382",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163382/41163_back_02.jpg?v=636836868060070000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163383": {
-        "cacheId": "163383",
-        "imageId": "163383",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163383/41163_back_01.jpg?v=636836868237230000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163384": {
-        "cacheId": "163384",
-        "imageId": "163384",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163384/41163_front_01.jpg?v=636836868828200000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Image:163385": {
-        "cacheId": "163385",
-        "imageId": "163385",
-        "imageLabel": "",
-        "imageTag": "",
-        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/163385/41163_box1_v29.jpg?v=636836868936230000",
-        "imageText": "",
-        "__typename": "Image"
-    },
-    "Product:sp-2003178.items({\"filter\":\"ALL\"}).0.sellers.0": {
-        "sellerId": "1",
-        "sellerName": "legobrasil",
-        "sellerDefault": false,
-        "__typename": "Seller",
-        "commertialOffer": {
-            "type": "id",
-            "generated": true,
-            "id": "$Product:sp-2003178.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer",
-            "typename": "Offer"
-        }
-    },
-    "$Product:sp-2003178.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer": {
-        "discountHighlights": [],
-        "teasers": [],
-        "Price": 49.99,
-        "ListPrice": 69.99,
-        "Tax": 0,
-        "taxPercentage": 0,
-        "spotPrice": 49.99,
-        "PriceWithoutDiscount": 49.99,
-        "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
-        "AvailableQuantity": 0,
-        "__typename": "Offer",
-        "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
-    },
     "Product:sp-2003154": {
         "cacheId": "sp-2003154",
         "productId": "2003154",
@@ -2624,7 +732,7 @@
         "spotPrice": 129.99,
         "PriceWithoutDiscount": 129.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:52:17Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -3602,7 +1710,7 @@
         "spotPrice": 139.99,
         "PriceWithoutDiscount": 139.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:52:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -4481,7 +2589,7 @@
         "spotPrice": 69.99,
         "PriceWithoutDiscount": 69.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:44:23Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -5345,7 +3453,7 @@
         "spotPrice": 69.99,
         "PriceWithoutDiscount": 69.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:44:23Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -6293,7 +4401,7 @@
         "spotPrice": 109.99,
         "PriceWithoutDiscount": 109.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -7180,7 +5288,7 @@
         "spotPrice": 69.99,
         "PriceWithoutDiscount": 69.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:52:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -8018,7 +6126,7 @@
         "spotPrice": 49.99,
         "PriceWithoutDiscount": 49.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -8971,7 +7079,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -9831,7 +7939,7 @@
         "spotPrice": 129.99,
         "PriceWithoutDiscount": 129.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:44:23Z",
+        "PriceValidUntil": "2025-05-13T13:52:56Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -10737,7 +8845,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:46:14Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -11679,7 +9787,7 @@
         "spotPrice": 199.99,
         "PriceWithoutDiscount": 199.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:50:53Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -12663,7 +10771,7 @@
         "spotPrice": 159.99,
         "PriceWithoutDiscount": 159.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:44:23Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -13577,7 +11685,7 @@
         "spotPrice": 99.99,
         "PriceWithoutDiscount": 99.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:45:51Z",
+        "PriceValidUntil": "2025-05-13T13:53:06Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -14506,7 +12614,7 @@
         "spotPrice": 199.99,
         "PriceWithoutDiscount": 199.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:46:14Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -15404,7 +13512,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -16303,7 +14411,7 @@
         "spotPrice": 279.99,
         "PriceWithoutDiscount": 279.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:44:23Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -17195,7 +15303,7 @@
         "spotPrice": 129.99,
         "PriceWithoutDiscount": 129.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -18079,7 +16187,7 @@
         "spotPrice": 49.99,
         "PriceWithoutDiscount": 49.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:44:23Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -18902,7 +17010,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -19790,7 +17898,7 @@
         "spotPrice": 39.99,
         "PriceWithoutDiscount": 39.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -20739,7 +18847,7 @@
         "spotPrice": 179.99,
         "PriceWithoutDiscount": 179.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:50:53Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -21627,7 +19735,7 @@
         "spotPrice": 149.99,
         "PriceWithoutDiscount": 149.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:52:34Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -22601,7 +20709,7 @@
         "spotPrice": 259.99,
         "PriceWithoutDiscount": 259.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -23551,7 +21659,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -24309,7 +22417,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -25271,7 +23379,7 @@
         "spotPrice": 159.99,
         "PriceWithoutDiscount": 159.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -26125,7 +24233,7 @@
         "spotPrice": 199.99,
         "PriceWithoutDiscount": 199.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -27110,7 +25218,7 @@
         "spotPrice": 299.99,
         "PriceWithoutDiscount": 299.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -28078,7 +26186,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:28Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -29022,7 +27130,7 @@
         "spotPrice": 129.99,
         "PriceWithoutDiscount": 129.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:28Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -29994,7 +28102,7 @@
         "spotPrice": 49.99,
         "PriceWithoutDiscount": 49.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -30939,7 +29047,7 @@
         "spotPrice": 99.99,
         "PriceWithoutDiscount": 99.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -31839,7 +29947,7 @@
         "spotPrice": 99.99,
         "PriceWithoutDiscount": 99.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -32768,7 +30876,7 @@
         "spotPrice": 99.99,
         "PriceWithoutDiscount": 99.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:45:51Z",
+        "PriceValidUntil": "2025-05-13T13:53:06Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -33511,7 +31619,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -34623,7 +32731,7 @@
         "spotPrice": 1399.99,
         "PriceWithoutDiscount": 1399.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:43:07Z",
+        "PriceValidUntil": "2025-05-13T13:50:43Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -35544,7 +33652,7 @@
         "spotPrice": 149.99,
         "PriceWithoutDiscount": 149.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:52:34Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -36449,7 +34557,7 @@
         "spotPrice": 149.99,
         "PriceWithoutDiscount": 149.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -37434,7 +35542,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -38434,7 +36542,7 @@
         "spotPrice": 89.99,
         "PriceWithoutDiscount": 89.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -39325,7 +37433,7 @@
         "spotPrice": 69.99,
         "PriceWithoutDiscount": 69.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -40269,7 +38377,7 @@
         "spotPrice": 49.99,
         "PriceWithoutDiscount": 49.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -41177,7 +39285,7 @@
         "spotPrice": 599.99,
         "PriceWithoutDiscount": 599.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:53:29Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -42068,7 +40176,7 @@
         "spotPrice": 69.99,
         "PriceWithoutDiscount": 69.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -43009,7 +41117,7 @@
         "spotPrice": 49.99,
         "PriceWithoutDiscount": 49.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
@@ -43930,25 +42038,1800 @@
         "spotPrice": 119.99,
         "PriceWithoutDiscount": 119.99,
         "RewardValue": 0,
-        "PriceValidUntil": "2025-05-12T12:47:34Z",
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
+        "AvailableQuantity": 0,
+        "__typename": "Offer",
+        "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
+    },
+    "Product:sp-2002316": {
+        "cacheId": "sp-2002316",
+        "productId": "2002316",
+        "description": "Construa os incríveis BrickHeadz do Batman em modo tático e Superman!\r\nCada um está em uma placa de base de colecionador com o ícone BrickHeadz para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•Batman e Superman detalhes autênticos visto no sucesso de bilheteria Liga da Justiça, incluindo os trajes de Super-Heróis.\r\n\r\n•Cada personagem vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se crescendo sua coleção BrickHeadz  com outros personagens clássicos de seus filmes favoritos, séries de TV, jogos e quadrinhos.\r\n\r\n•Misture seus personagens BrickHeadz  para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Cada personagem tem 7cm de altura sem placa de base.\r\n•As placas de base medem 4cm quadrado.\r\n\r\n•São 209 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas.",
+        "productName": "LEGO BrickHeadz - Batman Tático e Superman",
+        "productReference": "4111141610",
+        "linkText": "lego-brickheadz-batman-tatico-e-superman",
+        "brand": "LEGO",
+        "brandId": 2000000,
+        "link": "/lego-brickheadz-batman-tatico-e-superman/p",
+        "categories": {
+            "type": "json",
+            "json": [
+                "/Temas/BrickHeadz/",
+                "/Temas/",
+                "/Temas/DC/",
+                "/Temas/DC/Personagens/Batman/",
+                "/Temas/DC/Personagens/"
+            ]
+        },
+        "categoryId": "1000127",
+        "releaseDate": "1543363200000",
+        "priceRange": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002316.priceRange",
+            "typename": "ProductPriceRange"
+        },
+        "specificationGroups": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.0",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.1",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.2",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.3",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4",
+                "typename": "SpecificationGroup"
+            }
+        ],
+        "skuSpecifications": [],
+        "productClusters": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.0",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.1",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.2",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.3",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.4",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.5",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.6",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.7",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.8",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.9",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.10",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.productClusters.11",
+                "typename": "ProductClusters"
+            }
+        ],
+        "clusterHighlights": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.clusterHighlights.0",
+                "typename": "ClusterHighlight"
+            }
+        ],
+        "properties": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.0",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.1",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.2",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.3",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.4",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.5",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.6",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.7",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.8",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.properties.9",
+                "typename": "Property"
+            }
+        ],
+        "__typename": "Product",
+        "advertisement": null,
+        "items({\"filter\":\"ALL\"})": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.items({\"filter\":\"ALL\"}).0",
+                "typename": "SKU"
+            }
+        ],
+        "selectedProperties": null,
+        "rule": null
+    },
+    "$Product:sp-2002316.priceRange.sellingPrice": {
+        "highPrice": 0,
+        "lowPrice": null,
+        "__typename": "PriceRange"
+    },
+    "$Product:sp-2002316.priceRange": {
+        "sellingPrice": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002316.priceRange.sellingPrice",
+            "typename": "PriceRange"
+        },
+        "listPrice": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002316.priceRange.listPrice",
+            "typename": "PriceRange"
+        },
+        "__typename": "ProductPriceRange"
+    },
+    "$Product:sp-2002316.priceRange.listPrice": {
+        "highPrice": 0,
+        "lowPrice": null,
+        "__typename": "PriceRange"
+    },
+    "Product:sp-2002316.specificationGroups.0": {
+        "name": "Advertências",
+        "originalName": "Advertências",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.0.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.0.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002316.specificationGroups.0.specifications.0": {
+        "name": "Recomendações (pdp)",
+        "originalName": "Recomendações (pdp)",
+        "values": {
+            "type": "json",
+            "json": [
+                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.0.specifications.1": {
+        "name": "naorecomendado_3anos",
+        "originalName": "naorecomendado_3anos",
+        "values": {
+            "type": "json",
+            "json": [
+                "Sim"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.1": {
+        "name": "Campos Internos",
+        "originalName": "Campos Internos",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.1.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002316.specificationGroups.1.specifications.0": {
+        "name": "Cod LEGO",
+        "originalName": "Cod LEGO",
+        "values": {
+            "type": "json",
+            "json": [
+                "41610"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.2": {
+        "name": "Filtros Site",
+        "originalName": "Filtros Site",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.2.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.2.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.2.specifications.2",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002316.specificationGroups.2.specifications.0": {
+        "name": "Idade",
+        "originalName": "Idade",
+        "values": {
+            "type": "json",
+            "json": [
+                "8 anos ou mais",
+                "12 anos ou mais"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.2.specifications.1": {
+        "name": "Interesses",
+        "originalName": "Interesses",
+        "values": {
+            "type": "json",
+            "json": [
+                "Heróis",
+                "Filmes",
+                "Personagens"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.2.specifications.2": {
+        "name": "Peças",
+        "originalName": "Peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "100 - 399"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.3": {
+        "name": "Informações Técnicas",
+        "originalName": "Informações Técnicas",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.3.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.3.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.3.specifications.2",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002316.specificationGroups.3.specifications.0": {
+        "name": "Descrição Comercial",
+        "originalName": "Descrição Comercial",
+        "values": {
+            "type": "json",
+            "json": [
+                "Construa os incríveis BrickHeadz do Batman em modo tático e Superman!\r\nCada um está em uma placa de base de colecionador com o ícone BrickHeadz para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•Batman e Superman detalhes autênticos visto no sucesso de bilheteria Liga da Justiça, incluindo os trajes de Super-Heróis.\r\n\r\n•Cada personagem vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se crescendo sua coleção BrickHeadz  com outros personagens clássicos de seus filmes favoritos, séries de TV, jogos e quadrinhos.\r\n\r\n•Misture seus personagens BrickHeadz  para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Cada personagem tem 7cm de altura sem placa de base.\r\n•As placas de base medem 4cm quadrado.\r\n\r\n•São 209 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.3.specifications.1": {
+        "name": "Número de peças",
+        "originalName": "Número de peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "209"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.3.specifications.2": {
+        "name": "Idade Mínima",
+        "originalName": "Idade Mínima",
+        "values": {
+            "type": "json",
+            "json": [
+                "10"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4": {
+        "name": "allSpecifications",
+        "originalName": "allSpecifications",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.2",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.3",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.4",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.5",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.6",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.7",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.8",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.specificationGroups.4.specifications.9",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.0": {
+        "name": "Descrição Comercial",
+        "originalName": "Descrição Comercial",
+        "values": {
+            "type": "json",
+            "json": [
+                "Construa os incríveis BrickHeadz do Batman em modo tático e Superman!\r\nCada um está em uma placa de base de colecionador com o ícone BrickHeadz para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•Batman e Superman detalhes autênticos visto no sucesso de bilheteria Liga da Justiça, incluindo os trajes de Super-Heróis.\r\n\r\n•Cada personagem vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se crescendo sua coleção BrickHeadz  com outros personagens clássicos de seus filmes favoritos, séries de TV, jogos e quadrinhos.\r\n\r\n•Misture seus personagens BrickHeadz  para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Cada personagem tem 7cm de altura sem placa de base.\r\n•As placas de base medem 4cm quadrado.\r\n\r\n•São 209 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.1": {
+        "name": "Número de peças",
+        "originalName": "Número de peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "209"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.2": {
+        "name": "Idade Mínima",
+        "originalName": "Idade Mínima",
+        "values": {
+            "type": "json",
+            "json": [
+                "10"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.3": {
+        "name": "Idade",
+        "originalName": "Idade",
+        "values": {
+            "type": "json",
+            "json": [
+                "8 anos ou mais",
+                "12 anos ou mais"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.4": {
+        "name": "Interesses",
+        "originalName": "Interesses",
+        "values": {
+            "type": "json",
+            "json": [
+                "Heróis",
+                "Filmes",
+                "Personagens"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.5": {
+        "name": "Peças",
+        "originalName": "Peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "100 - 399"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.6": {
+        "name": "Recomendações (pdp)",
+        "originalName": "Recomendações (pdp)",
+        "values": {
+            "type": "json",
+            "json": [
+                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.7": {
+        "name": "naorecomendado_3anos",
+        "originalName": "naorecomendado_3anos",
+        "values": {
+            "type": "json",
+            "json": [
+                "Sim"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.8": {
+        "name": "Cod LEGO",
+        "originalName": "Cod LEGO",
+        "values": {
+            "type": "json",
+            "json": [
+                "41610"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.specificationGroups.4.specifications.9": {
+        "name": "sellerId",
+        "originalName": "sellerId",
+        "values": {
+            "type": "json",
+            "json": [
+                "1"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002316.productClusters.0": {
+        "id": "135",
+        "name": "LegoHome",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.1": {
+        "id": "136",
+        "name": "Depto Temas",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.2": {
+        "id": "149",
+        "name": "googleshopping",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.3": {
+        "id": "171",
+        "name": "todos-os-produtos",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.4": {
+        "id": "176",
+        "name": "marketplace",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.5": {
+        "id": "188",
+        "name": "Pai Herói",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.6": {
+        "id": "209",
+        "name": "Lego",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.7": {
+        "id": "212",
+        "name": "Todos Os Produtos LEGO",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.8": {
+        "id": "214",
+        "name": "DataLancamento-teste(Em até 9 dias)",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.9": {
+        "id": "215",
+        "name": "All Products",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.10": {
+        "id": "230",
+        "name": "Google Shopping LEE",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.productClusters.11": {
+        "id": "240",
+        "name": "Férias com LEGO",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002316.clusterHighlights.0": {
+        "id": "214",
+        "name": "DataLancamento-teste(Em até 9 dias)",
+        "__typename": "ClusterHighlight"
+    },
+    "Product:sp-2002316.properties.0": {
+        "name": "Descrição Comercial",
+        "values": {
+            "type": "json",
+            "json": [
+                "Construa os incríveis BrickHeadz do Batman em modo tático e Superman!\r\nCada um está em uma placa de base de colecionador com o ícone BrickHeadz para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•Batman e Superman detalhes autênticos visto no sucesso de bilheteria Liga da Justiça, incluindo os trajes de Super-Heróis.\r\n\r\n•Cada personagem vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se crescendo sua coleção BrickHeadz  com outros personagens clássicos de seus filmes favoritos, séries de TV, jogos e quadrinhos.\r\n\r\n•Misture seus personagens BrickHeadz  para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Cada personagem tem 7cm de altura sem placa de base.\r\n•As placas de base medem 4cm quadrado.\r\n\r\n•São 209 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.1": {
+        "name": "Número de peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "209"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.2": {
+        "name": "Idade Mínima",
+        "values": {
+            "type": "json",
+            "json": [
+                "10"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.3": {
+        "name": "Idade",
+        "values": {
+            "type": "json",
+            "json": [
+                "8 anos ou mais",
+                "12 anos ou mais"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.4": {
+        "name": "Interesses",
+        "values": {
+            "type": "json",
+            "json": [
+                "Heróis",
+                "Filmes",
+                "Personagens"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.5": {
+        "name": "Peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "100 - 399"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.6": {
+        "name": "Recomendações (pdp)",
+        "values": {
+            "type": "json",
+            "json": [
+                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.7": {
+        "name": "naorecomendado_3anos",
+        "values": {
+            "type": "json",
+            "json": [
+                "Sim"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.8": {
+        "name": "Cod LEGO",
+        "values": {
+            "type": "json",
+            "json": [
+                "41610"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.properties.9": {
+        "name": "sellerId",
+        "values": {
+            "type": "json",
+            "json": [
+                "1"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002316.items({\"filter\":\"ALL\"}).0": {
+        "itemId": "2001657",
+        "name": "LEGO BrickHeadz - Batman Tático e Superman",
+        "nameComplete": "LEGO BrickHeadz - Batman Tático e Superman",
+        "complementName": "41610",
+        "ean": "0673419282529",
+        "variations": [],
+        "referenceId": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.items({\"filter\":\"ALL\"}).0.referenceId.0",
+                "typename": "Reference"
+            }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "images": [
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162831",
+                "typename": "Image"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162832",
+                "typename": "Image"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162833",
+                "typename": "Image"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162834",
+                "typename": "Image"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162835",
+                "typename": "Image"
+            }
+        ],
+        "__typename": "SKU",
+        "sellers": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002316.items({\"filter\":\"ALL\"}).0.sellers.0",
+                "typename": "Seller"
+            }
+        ]
+    },
+    "Product:sp-2002316.items({\"filter\":\"ALL\"}).0.referenceId.0": {
+        "Key": "RefId",
+        "Value": "4111141610",
+        "__typename": "Reference"
+    },
+    "Image:162831": {
+        "cacheId": "162831",
+        "imageId": "162831",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162831/41610_prod.jpg?v=636790079000470000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Image:162832": {
+        "cacheId": "162832",
+        "imageId": "162832",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162832/41610_front_01.jpg?v=636790079225100000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Image:162833": {
+        "cacheId": "162833",
+        "imageId": "162833",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162833/41610_back_01.jpg?v=636790079347570000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Image:162834": {
+        "cacheId": "162834",
+        "imageId": "162834",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162834/41610_back_03.jpg?v=636790079564570000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Image:162835": {
+        "cacheId": "162835",
+        "imageId": "162835",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162835/41610_box1_v29.jpg?v=636790079685030000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Product:sp-2002316.items({\"filter\":\"ALL\"}).0.sellers.0": {
+        "sellerId": "1",
+        "sellerName": "legobrasil",
+        "sellerDefault": false,
+        "__typename": "Seller",
+        "commertialOffer": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002316.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer",
+            "typename": "Offer"
+        }
+    },
+    "$Product:sp-2002316.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 149.99,
+        "ListPrice": 149.99,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 149.99,
+        "PriceWithoutDiscount": 149.99,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-05-13T13:49:05Z",
+        "AvailableQuantity": 0,
+        "__typename": "Offer",
+        "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
+    },
+    "Product:sp-2002336": {
+        "cacheId": "sp-2002336",
+        "productId": "2002336",
+        "description": "Hermione também tem um livro de feitiços destacável e varinha mágica, e fica em uma placa de colecionador montável para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•O personagem de Hermione Granger em LEGO apresenta detalhes autênticos do filme blockbuster Harry Potter e A Pedra Filosofal, incluindo cabelos castanhos, gravata de Hogwarts , livro de feitiços e uma varinha mágica.\r\n\r\n•Cada personagem BrickHeadz vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se cultivando sua coleção LEGO BrickHeadz com outros personagens do filme blockbuster Harry Potter e A Pedra Filosofal, além de muitos outros de seus filmes, séries de TV, jogos e quadrinhos favoritos.\r\n\r\n•Misture seus personagens de construção LEGO BrickHeadz para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Hermione tem 7 cm de altura sem placa de base.\r\n•A placa de base mede 4cm quadrado.\r\n\r\n•São 127 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas.",
+        "productName": "LEGO BrickHeadz - Hermione Granger",
+        "productReference": "4111141616",
+        "linkText": "lego-brickheadz-hermione-granger",
+        "brand": "LEGO",
+        "brandId": 2000000,
+        "link": "/lego-brickheadz-hermione-granger/p",
+        "categories": {
+            "type": "json",
+            "json": [
+                "/Temas/BrickHeadz/",
+                "/Temas/",
+                "/Temas/Harry Potter/"
+            ]
+        },
+        "categoryId": "1000127",
+        "releaseDate": "1543363200000",
+        "priceRange": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002336.priceRange",
+            "typename": "ProductPriceRange"
+        },
+        "specificationGroups": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.0",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.1",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.2",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.3",
+                "typename": "SpecificationGroup"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4",
+                "typename": "SpecificationGroup"
+            }
+        ],
+        "skuSpecifications": [],
+        "productClusters": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.0",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.1",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.2",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.3",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.4",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.5",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.6",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.7",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.8",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.9",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.10",
+                "typename": "ProductClusters"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.productClusters.11",
+                "typename": "ProductClusters"
+            }
+        ],
+        "clusterHighlights": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.clusterHighlights.0",
+                "typename": "ClusterHighlight"
+            }
+        ],
+        "properties": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.0",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.1",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.2",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.3",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.4",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.5",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.6",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.7",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.8",
+                "typename": "Property"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.properties.9",
+                "typename": "Property"
+            }
+        ],
+        "__typename": "Product",
+        "advertisement": null,
+        "items({\"filter\":\"ALL\"})": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.items({\"filter\":\"ALL\"}).0",
+                "typename": "SKU"
+            }
+        ],
+        "selectedProperties": null,
+        "rule": null
+    },
+    "$Product:sp-2002336.priceRange.sellingPrice": {
+        "highPrice": 0,
+        "lowPrice": null,
+        "__typename": "PriceRange"
+    },
+    "$Product:sp-2002336.priceRange": {
+        "sellingPrice": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002336.priceRange.sellingPrice",
+            "typename": "PriceRange"
+        },
+        "listPrice": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002336.priceRange.listPrice",
+            "typename": "PriceRange"
+        },
+        "__typename": "ProductPriceRange"
+    },
+    "$Product:sp-2002336.priceRange.listPrice": {
+        "highPrice": 0,
+        "lowPrice": null,
+        "__typename": "PriceRange"
+    },
+    "Product:sp-2002336.specificationGroups.0": {
+        "name": "Informações Técnicas",
+        "originalName": "Informações Técnicas",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.0.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.0.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.0.specifications.2",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002336.specificationGroups.0.specifications.0": {
+        "name": "Descrição Comercial",
+        "originalName": "Descrição Comercial",
+        "values": {
+            "type": "json",
+            "json": [
+                "Hermione também tem um livro de feitiços destacável e varinha mágica, e fica em uma placa de colecionador montável para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•O personagem de Hermione Granger em LEGO apresenta detalhes autênticos do filme blockbuster Harry Potter e A Pedra Filosofal, incluindo cabelos castanhos, gravata de Hogwarts , livro de feitiços e uma varinha mágica.\r\n\r\n•Cada personagem BrickHeadz vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se cultivando sua coleção LEGO BrickHeadz com outros personagens do filme blockbuster Harry Potter e A Pedra Filosofal, além de muitos outros de seus filmes, séries de TV, jogos e quadrinhos favoritos.\r\n\r\n•Misture seus personagens de construção LEGO BrickHeadz para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Hermione tem 7 cm de altura sem placa de base.\r\n•A placa de base mede 4cm quadrado.\r\n\r\n•São 127 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.0.specifications.1": {
+        "name": "Número de peças",
+        "originalName": "Número de peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "127"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.0.specifications.2": {
+        "name": "Idade Mínima",
+        "originalName": "Idade Mínima",
+        "values": {
+            "type": "json",
+            "json": [
+                "10"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.1": {
+        "name": "Campos Internos",
+        "originalName": "Campos Internos",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.1.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002336.specificationGroups.1.specifications.0": {
+        "name": "Cod LEGO",
+        "originalName": "Cod LEGO",
+        "values": {
+            "type": "json",
+            "json": [
+                "41616"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.2": {
+        "name": "Advertências",
+        "originalName": "Advertências",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.2.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.2.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002336.specificationGroups.2.specifications.0": {
+        "name": "Recomendações (pdp)",
+        "originalName": "Recomendações (pdp)",
+        "values": {
+            "type": "json",
+            "json": [
+                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.2.specifications.1": {
+        "name": "naorecomendado_3anos",
+        "originalName": "naorecomendado_3anos",
+        "values": {
+            "type": "json",
+            "json": [
+                "Sim"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.3": {
+        "name": "Filtros Site",
+        "originalName": "Filtros Site",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.3.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.3.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.3.specifications.2",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002336.specificationGroups.3.specifications.0": {
+        "name": "Idade",
+        "originalName": "Idade",
+        "values": {
+            "type": "json",
+            "json": [
+                "8 anos ou mais",
+                "12 anos ou mais"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.3.specifications.1": {
+        "name": "Interesses",
+        "originalName": "Interesses",
+        "values": {
+            "type": "json",
+            "json": [
+                "Filmes",
+                "Personagens"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.3.specifications.2": {
+        "name": "Peças",
+        "originalName": "Peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "100 - 399"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4": {
+        "name": "allSpecifications",
+        "originalName": "allSpecifications",
+        "specifications": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.0",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.1",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.2",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.3",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.4",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.5",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.6",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.7",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.8",
+                "typename": "SpecificationGroupProperty"
+            },
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.specificationGroups.4.specifications.9",
+                "typename": "SpecificationGroupProperty"
+            }
+        ],
+        "__typename": "SpecificationGroup"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.0": {
+        "name": "Descrição Comercial",
+        "originalName": "Descrição Comercial",
+        "values": {
+            "type": "json",
+            "json": [
+                "Hermione também tem um livro de feitiços destacável e varinha mágica, e fica em uma placa de colecionador montável para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•O personagem de Hermione Granger em LEGO apresenta detalhes autênticos do filme blockbuster Harry Potter e A Pedra Filosofal, incluindo cabelos castanhos, gravata de Hogwarts , livro de feitiços e uma varinha mágica.\r\n\r\n•Cada personagem BrickHeadz vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se cultivando sua coleção LEGO BrickHeadz com outros personagens do filme blockbuster Harry Potter e A Pedra Filosofal, além de muitos outros de seus filmes, séries de TV, jogos e quadrinhos favoritos.\r\n\r\n•Misture seus personagens de construção LEGO BrickHeadz para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Hermione tem 7 cm de altura sem placa de base.\r\n•A placa de base mede 4cm quadrado.\r\n\r\n•São 127 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.1": {
+        "name": "Número de peças",
+        "originalName": "Número de peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "127"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.2": {
+        "name": "Idade Mínima",
+        "originalName": "Idade Mínima",
+        "values": {
+            "type": "json",
+            "json": [
+                "10"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.3": {
+        "name": "Idade",
+        "originalName": "Idade",
+        "values": {
+            "type": "json",
+            "json": [
+                "8 anos ou mais",
+                "12 anos ou mais"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.4": {
+        "name": "Interesses",
+        "originalName": "Interesses",
+        "values": {
+            "type": "json",
+            "json": [
+                "Filmes",
+                "Personagens"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.5": {
+        "name": "Peças",
+        "originalName": "Peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "100 - 399"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.6": {
+        "name": "Recomendações (pdp)",
+        "originalName": "Recomendações (pdp)",
+        "values": {
+            "type": "json",
+            "json": [
+                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.7": {
+        "name": "naorecomendado_3anos",
+        "originalName": "naorecomendado_3anos",
+        "values": {
+            "type": "json",
+            "json": [
+                "Sim"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.8": {
+        "name": "Cod LEGO",
+        "originalName": "Cod LEGO",
+        "values": {
+            "type": "json",
+            "json": [
+                "41616"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.specificationGroups.4.specifications.9": {
+        "name": "sellerId",
+        "originalName": "sellerId",
+        "values": {
+            "type": "json",
+            "json": [
+                "1"
+            ]
+        },
+        "__typename": "SpecificationGroupProperty"
+    },
+    "Product:sp-2002336.productClusters.0": {
+        "id": "135",
+        "name": "LegoHome",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.1": {
+        "id": "136",
+        "name": "Depto Temas",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.2": {
+        "id": "149",
+        "name": "googleshopping",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.3": {
+        "id": "171",
+        "name": "todos-os-produtos",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.4": {
+        "id": "176",
+        "name": "marketplace",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.5": {
+        "id": "188",
+        "name": "Pai Herói",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.6": {
+        "id": "209",
+        "name": "Lego",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.7": {
+        "id": "212",
+        "name": "Todos Os Produtos LEGO",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.8": {
+        "id": "214",
+        "name": "DataLancamento-teste(Em até 9 dias)",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.9": {
+        "id": "215",
+        "name": "All Products",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.10": {
+        "id": "230",
+        "name": "Google Shopping LEE",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.productClusters.11": {
+        "id": "240",
+        "name": "Férias com LEGO",
+        "__typename": "ProductClusters"
+    },
+    "Product:sp-2002336.clusterHighlights.0": {
+        "id": "214",
+        "name": "DataLancamento-teste(Em até 9 dias)",
+        "__typename": "ClusterHighlight"
+    },
+    "Product:sp-2002336.properties.0": {
+        "name": "Descrição Comercial",
+        "values": {
+            "type": "json",
+            "json": [
+                "Hermione também tem um livro de feitiços destacável e varinha mágica, e fica em uma placa de colecionador montável para fácil exibição em sua casa, escritório ou em qualquer lugar que você gosta.\r\n\r\n•O personagem de Hermione Granger em LEGO apresenta detalhes autênticos do filme blockbuster Harry Potter e A Pedra Filosofal, incluindo cabelos castanhos, gravata de Hogwarts , livro de feitiços e uma varinha mágica.\r\n\r\n•Cada personagem BrickHeadz vem com sua placa de base de colecionador.\r\n\r\n•Divirta-se cultivando sua coleção LEGO BrickHeadz com outros personagens do filme blockbuster Harry Potter e A Pedra Filosofal, além de muitos outros de seus filmes, séries de TV, jogos e quadrinhos favoritos.\r\n\r\n•Misture seus personagens de construção LEGO BrickHeadz para criar híbridos ou seus próprios personagens incríveis.\r\n\r\n•Hermione tem 7 cm de altura sem placa de base.\r\n•A placa de base mede 4cm quadrado.\r\n\r\n•São 127 peças - Recomendado para fãs LEGO de 10 anos de idade ou mais.\r\n\r\n\r\nNão recomendável para menores de 3 anos, por conter partes pequenas."
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.1": {
+        "name": "Número de peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "127"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.2": {
+        "name": "Idade Mínima",
+        "values": {
+            "type": "json",
+            "json": [
+                "10"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.3": {
+        "name": "Idade",
+        "values": {
+            "type": "json",
+            "json": [
+                "8 anos ou mais",
+                "12 anos ou mais"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.4": {
+        "name": "Interesses",
+        "values": {
+            "type": "json",
+            "json": [
+                "Filmes",
+                "Personagens"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.5": {
+        "name": "Peças",
+        "values": {
+            "type": "json",
+            "json": [
+                "100 - 399"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.6": {
+        "name": "Recomendações (pdp)",
+        "values": {
+            "type": "json",
+            "json": [
+                "Atenção!\r\r\nRisco de asfixia.\r\r\nPequenas partes e pequenas bolas."
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.7": {
+        "name": "naorecomendado_3anos",
+        "values": {
+            "type": "json",
+            "json": [
+                "Sim"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.8": {
+        "name": "Cod LEGO",
+        "values": {
+            "type": "json",
+            "json": [
+                "41616"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.properties.9": {
+        "name": "sellerId",
+        "values": {
+            "type": "json",
+            "json": [
+                "1"
+            ]
+        },
+        "__typename": "Property"
+    },
+    "Product:sp-2002336.items({\"filter\":\"ALL\"}).0": {
+        "itemId": "2001662",
+        "name": "LEGO BrickHeadz - Hermione Granger",
+        "nameComplete": "LEGO BrickHeadz - Hermione Granger",
+        "complementName": "41616",
+        "ean": "0673419282451",
+        "variations": [],
+        "referenceId": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.items({\"filter\":\"ALL\"}).0.referenceId.0",
+                "typename": "Reference"
+            }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "images": [
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162842",
+                "typename": "Image"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162841",
+                "typename": "Image"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Image:162843",
+                "typename": "Image"
+            }
+        ],
+        "__typename": "SKU",
+        "sellers": [
+            {
+                "type": "id",
+                "generated": true,
+                "id": "Product:sp-2002336.items({\"filter\":\"ALL\"}).0.sellers.0",
+                "typename": "Seller"
+            }
+        ]
+    },
+    "Product:sp-2002336.items({\"filter\":\"ALL\"}).0.referenceId.0": {
+        "Key": "RefId",
+        "Value": "4111141616",
+        "__typename": "Reference"
+    },
+    "Image:162842": {
+        "cacheId": "162842",
+        "imageId": "162842",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162842/41616_front.jpg?v=636790181586270000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Image:162841": {
+        "cacheId": "162841",
+        "imageId": "162841",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162841/41616_prod.jpg?v=636790181362000000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Image:162843": {
+        "cacheId": "162843",
+        "imageId": "162843",
+        "imageLabel": "",
+        "imageTag": "",
+        "imageUrl": "https://legobrasil.vtexassets.com/arquivos/ids/162843/41616_box1_v29.jpg?v=636790181734000000",
+        "imageText": "",
+        "__typename": "Image"
+    },
+    "Product:sp-2002336.items({\"filter\":\"ALL\"}).0.sellers.0": {
+        "sellerId": "1",
+        "sellerName": "legobrasil",
+        "sellerDefault": false,
+        "__typename": "Seller",
+        "commertialOffer": {
+            "type": "id",
+            "generated": true,
+            "id": "$Product:sp-2002336.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer",
+            "typename": "Offer"
+        }
+    },
+    "$Product:sp-2002336.items({\"filter\":\"ALL\"}).0.sellers.0.commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 69.99,
+        "ListPrice": 69.99,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 69.99,
+        "PriceWithoutDiscount": 69.99,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-05-13T13:52:34Z",
         "AvailableQuantity": 0,
         "__typename": "Offer",
         "Installments({\"criteria\":\"MAX_WITHOUT_INTEREST\"})": []
     },
     "$ROOT_QUERY.productSearch({\"from\":1248,\"hideUnavailableItems\":false,\"orderBy\":\"OrderByScoreDESC\",\"productOriginVtex\":false,\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}],\"simulationBehavior\":\"default\",\"to\":1295})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"fd92698fe375e8e4fa55d26fa62951d979b790fcf1032a6f02926081d199f550\"})": {
         "products": [
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Product:sp-2003173",
-                "typename": "Product"
-            },
-            {
-                "type": "id",
-                "generated": false,
-                "id": "Product:sp-2003178",
-                "typename": "Product"
-            },
             {
                 "type": "id",
                 "generated": false,
@@ -44224,9 +44107,21 @@
                 "generated": false,
                 "id": "Product:sp-2002341",
                 "typename": "Product"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Product:sp-2002316",
+                "typename": "Product"
+            },
+            {
+                "type": "id",
+                "generated": false,
+                "id": "Product:sp-2002336",
+                "typename": "Product"
             }
         ],
-        "recordsFiltered": 1374,
+        "recordsFiltered": 1372,
         "correction": {
             "type": "id",
             "generated": true,
@@ -44655,7 +44550,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.1.values({}).1": {
         "id": "1000010",
-        "quantity": 121,
+        "quantity": 120,
         "name": "City",
         "key": "category-2",
         "selected": false,
@@ -44697,7 +44592,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.1.values({}).4": {
         "id": "1000012",
-        "quantity": 86,
+        "quantity": 85,
         "name": "Disney",
         "key": "category-2",
         "selected": false,
@@ -44990,20 +44885,6 @@
         "__typename": "FacetValue"
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.1.values({}).25": {
-        "id": "1000151",
-        "quantity": 19,
-        "name": "DOTS",
-        "key": "category-2",
-        "selected": false,
-        "value": "dots",
-        "link": null,
-        "linkEncoded": null,
-        "href": "temas/dots?map=categoria",
-        "range": null,
-        "children": null,
-        "__typename": "FacetValue"
-    },
-    "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.1.values({}).26": {
         "id": "1000027",
         "quantity": 18,
         "name": "The LEGO® Movie™",
@@ -45013,6 +44894,20 @@
         "link": null,
         "linkEncoded": null,
         "href": "temas/the-lego--movie-?map=categoria",
+        "range": null,
+        "children": null,
+        "__typename": "FacetValue"
+    },
+    "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.1.values({}).26": {
+        "id": "1000151",
+        "quantity": 18,
+        "name": "DOTS",
+        "key": "category-2",
+        "selected": false,
+        "value": "dots",
+        "link": null,
+        "linkEncoded": null,
+        "href": "temas/dots?map=categoria",
         "range": null,
         "children": null,
         "__typename": "FacetValue"
@@ -45298,7 +45193,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.2.values({}).0": {
         "id": null,
-        "quantity": 293,
+        "quantity": 291,
         "name": "",
         "key": "price",
         "selected": false,
@@ -45322,7 +45217,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.2.values({}).1": {
         "id": null,
-        "quantity": 291,
+        "quantity": 286,
         "name": "",
         "key": "price",
         "selected": false,
@@ -45346,7 +45241,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.2.values({}).2": {
         "id": null,
-        "quantity": 280,
+        "quantity": 278,
         "name": "",
         "key": "price",
         "selected": false,
@@ -45437,7 +45332,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.3.values({}).2": {
         "id": "19",
-        "quantity": 181,
+        "quantity": 180,
         "name": "Com Desconto",
         "key": "destaques",
         "selected": false,
@@ -45465,7 +45360,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.3.values({}).4": {
         "id": "60",
-        "quantity": 131,
+        "quantity": 129,
         "name": "Última chance",
         "key": "destaques",
         "selected": false,
@@ -45532,7 +45427,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.4.values({}).1": {
         "id": "21",
-        "quantity": 476,
+        "quantity": 474,
         "name": "4 anos ou mais",
         "key": "idade",
         "selected": false,
@@ -45999,7 +45894,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.5.values({}).18": {
         "id": "31",
-        "quantity": 236,
+        "quantity": 235,
         "name": "Personagens",
         "key": "interesses",
         "selected": false,
@@ -46027,7 +45922,7 @@
     },
     "$ROOT_QUERY.facets({\"behavior\":\"Static\",\"categoryTreeBehavior\":\"default\",\"hideUnavailableItems\":false,\"initialAttributes\":\"c\",\"query\":\"temas\",\"selectedFacets\":[{\"key\":\"c\",\"value\":\"temas\"}]})@context({\"provider\":\"vtex.search-graphql\"})@runtimeMeta({\"hash\":\"d0cbc665c0364a2c77575f998051aa1a9f8a04a60174d78356b18b0406fe48b6\"}).facets.5.values({}).20": {
         "id": "24",
-        "quantity": 250,
+        "quantity": 249,
         "name": "Veículos",
         "key": "interesses",
         "selected": false,

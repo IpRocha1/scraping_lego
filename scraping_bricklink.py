@@ -57,9 +57,7 @@ class BrickLink:
             
             for captura_id in captura_ids:
                 num_id = captura_id.text.strip()
-                
-                # print('------------------------------------------')
-                # print('id: ',num_id)
+                print('ID', num_id)
                 
                 # URL base
                 url_base = f'https://www.bricklink.com/v2/catalog/catalogitem.page?S={num_id}#T=S&'
@@ -72,19 +70,11 @@ class BrickLink:
                 
                 # Construicao da URL completa
                 url_id = f"{url_base}{encoded_params}"
-                # print(url_id)
                 
                 browser.get(url_id)
                 site_id = BeautifulSoup(browser.page_source, "html.parser")                
                 
                 captura_info_produto = site_id.find_all('tr', class_=re.compile('pciItemContents'))
-
-                # print('Quantidade de produtos:',len(captura_info_produto))
-                
-                # qtd_produtos_captura = site_id.find('div', id_ =re.compile('_idStoreResultListSection'))
-                
-                # # qtd_produtos = qtd_produtos_captura[:-6]
-                # print(qtd_produtos_captura)
                 
                 if len(captura_info_produto) > 0:
                     num_peca_r = site_id.find_all('a', class_='links')
@@ -94,7 +84,6 @@ class BrickLink:
                         vendedor = info_produto.find('span', {'class':'pspStoreName'}).text.strip()
                         nome = info_produto.find('a', {'class':'pciItemNameLink'}).text.strip()
                         preco_r = info_produto.find('td', {'style':'text-align: right;'}).text.strip()
-                        # print(vendedor)
                         
                         # Encontrar a posicao do primeiro "BRL" e do "("
                         inicioPpreco = preco_r.find('BRL')
@@ -102,18 +91,19 @@ class BrickLink:
                         
                         # Extrair a substring entre "BRL" e "("
                         preco_id = preco_r[inicioPpreco + len("BRL"):fimPpreco].strip()
-                        preco = float(preco_id.replace(',', ''))
-
-                        
-                        # print(num_id[:-2], num_peca[:-6], vendedor, nome, preco)
+                        try:
+                            preco = float(preco_id.replace(',', ''))
+                        except ValueError:
+                            preco = None
                         
                         if vendedor != '[%strStorename%]':
                             lego = {
                                 "Vendedor": vendedor,
                                 "Nome": nome,
                                 "ID": num_id,
-                                "Num Pecas": num_peca[:-6],
-                                "Preco": preco
+                                "Num Pecas": num_peca[:-5],
+                                "Preco": preco,
+                                "URL": url_id
                             }
                             self.legos.append(lego)
                 
