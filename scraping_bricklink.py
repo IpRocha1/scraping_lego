@@ -6,6 +6,7 @@ import json
 import math
 import re
 import urllib.parse
+import time
 
 class BrickLink:
     
@@ -25,7 +26,7 @@ class BrickLink:
         
         browser = webdriver.Chrome(service=service, options=chrome)
         browser.get(url)
-        
+        browser.implicitly_wait(10)
         site = BeautifulSoup(browser.page_source, "html.parser")
         
       # Quantidade de itens
@@ -48,8 +49,11 @@ class BrickLink:
         for i in range(1, ultima_pagina + 1):
             print('pagina', i)
             url_pag = f'https://www.bricklink.com/catalogList.asp?pg={i}&catLike=W&sortBy=N&sortAsc=A&sz=50&catType=S'
-           
+
+            time.sleep(4)
+            browser.implicitly_wait(10)
             browser.get(url_pag)
+                        
             site = BeautifulSoup(browser.page_source, "html.parser")
             
             # Captura dos numeros de IDs
@@ -71,8 +75,10 @@ class BrickLink:
                 # Construicao da URL completa
                 url_id = f"{url_base}{encoded_params}"
                 
+                browser.implicitly_wait(10)
+                time.sleep(4)
                 browser.get(url_id)
-                site_id = BeautifulSoup(browser.page_source, "html.parser")                
+                site_id = BeautifulSoup(browser.page_source, "html.parser")        
                 
                 captura_info_produto = site_id.find_all('tr', class_=re.compile('pciItemContents'))
                 
@@ -101,7 +107,7 @@ class BrickLink:
                                 "Vendedor": vendedor,
                                 "Nome": nome,
                                 "ID": num_id,
-                                "Num Pecas": num_peca[:-5],
+                                "Num Pecas": num_peca[:-6],
                                 "Preco": preco,
                                 "URL": url_id
                             }
