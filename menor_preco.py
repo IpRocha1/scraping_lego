@@ -1,52 +1,52 @@
 import json
 
-# Arquivos JSON
-arquivo1 = '.\\legos_lego_store_brasil.json'
-arquivo2 = '.\\legos_amazon_brasil.json'
-arquivo3 = '.\\legos_bricklink.json'
+# Carregar os arquivos JSON
+with open('legos_amazon_brasil.json', 'r', encoding='utf-8') as f:
+    amazon_data = json.load(f)
 
-# Funcao para carregar dados de um arquivo JSON
-def carregar_dados(nome_arquivo):
-    with open(nome_arquivo, 'r', encoding='utf-8') as arquivo:
-        return json.load(arquivo)
-
-# Carregar os dados dos arquivos
-dados_arquivo1 = carregar_dados(arquivo1)
-dados_arquivo2 = carregar_dados(arquivo2)
-dados_arquivo3 = carregar_dados(arquivo3)
-
-# Funcao para comparar os precos dos produtos com o mesmo ID e retornar o produto com o menor preco
-def encontrar_produto_menor_preco(produtos):
-    menor_preco = float('inf')
-    produto_menor_preco = None
+with open('legos_lego_store_brasil.json', 'r', encoding='utf-8') as f:
+    lego_store_data = json.load(f)
     
-    for produto in produtos:
-        if produto['Preco'] < menor_preco:
-            menor_preco = produto['Preco']
-            produto_menor_preco = produto
-    
-    return produto_menor_preco
+with open('legos_bricklink.json', 'r', encoding='utf-8') as f:
+    briclink_data = json.load(f)
 
-# Dicionario para armazenar o produto com o menor preço para cada ID
-menor_preco_por_id = {}
+# Função para extrair a primeira parte do ID
+def extrair_id_basico(produto_id):
+    return produto_id.split('-')[0] if produto_id else None
 
-# Percorrer os produtos de cada arquivo e encontrar o produto com o menor preço para cada ID
-for dados in [dados_arquivo1, dados_arquivo2, dados_arquivo3]:
-    for produto in dados:
-        id_produto = produto.get('ID')  # Use .get() para acessar o valor do campo 'ID'
-        preco_produto = produto.get('Preco')  # Use .get() para acessar o valor do campo 'Preco'
-        
-        if id_produto is not None:  # Verifica se o campo 'ID' existe
-            if id_produto not in menor_preco_por_id:
-                menor_preco_por_id[id_produto] = produto
-            elif preco_produto is not None:
-                preco_anterior = menor_preco_por_id[id_produto].get('Preco')
-                if preco_anterior is not None and preco_produto < preco_anterior:
-                    menor_preco_por_id[id_produto] = produto
+# Função para atualizar "Num Pecas" se estiver faltando
+def atualizar_num_pecas(menor_produto, novo_produto):
+    if menor_produto.get('Num Pecas') is None and novo_produto.get('Num Pecas') is not None:
+        menor_produto['Num Pecas'] = novo_produto['Num Pecas']
+    return menor_produto
 
-# Imprimir os produtos com menor preço para cada ID
-for id_produto, produto_menor_preco in menor_preco_por_id.items():
-    print(f"ID: {id_produto}")
-    print(f"Produto com menor preço: {produto_menor_preco['Nome']}")
-    print(f"Preço: {produto_menor_preco['Preco']}")
-    print("-" * 30)
+# Criar um dicionário para armazenar o produto com menor preço para cada ID
+menor_preco_dict = {}
+
+# Função para processar produtos de uma lista de dados
+def processar_produtos(data):
+    for produto in data:
+        produto_id = extrair_id_basico(produto.get('ID'))
+        preco = produto.get('Preco')
+        if produto_id is not None and preco is not None:
+            if produto_id not in menor_preco_dict:
+                menor_preco_dict[produto_id] = produto
+            else:
+                if preco < menor_preco_dict[produto_id]['Preco']:
+                    menor_preco_dict[produto_id] = atualizar_num_pecas(produto, menor_preco_dict[produto_id])
+                else:
+                    menor_preco_dict[produto_id] = atualizar_num_pecas(menor_preco_dict[produto_id], produto)
+
+# Processar os produtos de cada fonte de dados
+processar_produtos(amazon_data)
+processar_produtos(lego_store_data)
+processar_produtos(briclink_data)
+
+# Converter o dicionário em uma lista para salvar em JSON
+menor_preco_list = list(menor_preco_dict.values())
+
+# Salvar o resultado em um novo arquivo JSON
+with open('produto_menor_preco.json', 'w', encoding='utf-8') as f:
+    json.dump(menor_preco_list, f, ensure_ascii=False, indent=4)
+
+print("Arquivo 'produto_menor_preco.json' gerado com sucesso!")
