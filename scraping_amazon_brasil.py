@@ -56,6 +56,12 @@ class AmazonBrasil:
             padrao2 = r'LEGO\s([\w\s]+?)\s(\d+)\s(\d+)\speças'
             padrao3 = r'LEGO ([\w\s]+) (\d+)'
             padrao4 = r'LEGO (\d+) ([\w\s]+) (\d+) peças'
+            padrao5 = r'(\d+) LEGO ([\w\s,]+?)'
+            padrao6 = r'LEGO ([\w\s]+) (\d+) (\d+) peças'
+            padrao7 = r'LEGO ([\w\s]+?) (\d+) (.+?)'
+            padrao8 = r'LEGO (\d+) ([\w\s]+)'
+            padrao9 = r'([\w\s]+) LEGO ([\w\s]+) (\d+) (\d+) peças'
+            padrao10 = r'([\w\s]+) LEGO ([\w\s]+) (\d+) ([\w\s]+) (\d+) peças'
             padrao_id_inicio = r'(\d+) LEGO ([\w\s,]+?) (\d+) peças?'
                     
             for produto in produtos:
@@ -64,7 +70,7 @@ class AmazonBrasil:
                 
                 # Extrair informacoes do produto
                 info = produto.find('span', class_=re.compile('a-text-normal')).get_text().strip()
-                info = info.replace('ǀ ', '').replace(';', '').replace(' ─', '').replace('®','').replace('(','').replace(')','').replace(' Conjunto de Construção', '').replace(' Kit Incrível', '').replace('Peças', 'peças').replace('“', '').replace('”', '').replace('- ', '').replace('™', '').replace(' Kit de Construção', '').replace(':', '').replace(' Brinquedo de Construção', '').replace(' Conjuntos de Construção', '').replace(' Kit de Construção para Adultos', '').replace('-', ' ').replace('.', '').replace('Brinquedo de Construção ', '').replace('Kit de construção de carro de brincar modelo colecionável para crianças a partir dos 8 anos ', '').replace('’', '').replace('Kit de Construção ', '').replace(',', '').replace('–', '').replace('‎', '').replace('Lego', 'LEGO').replace('Placa de Construção ', '').replace('Pieces', 'peças').replace('pcs', 'peças').replace('pe as', 'peças')
+                info = info.replace('ǀ ', '').replace(';', '').replace(' ─', '').replace('®','').replace('(','').replace(')','').replace(' Conjunto de Construção', '').replace(' Kit Incrível', '').replace('Peças', 'peças').replace('“', '').replace('”', '').replace('- ', '').replace('™', '').replace(' Kit de Construção', '').replace(':', '').replace(' Brinquedo de Construção', '').replace(' Conjuntos de Construção', '').replace(' Kit de Construção para Adultos', '').replace('-', ' ').replace('.', '').replace('Brinquedo de Construção ', '').replace('Kit de construção de carro de brincar modelo colecionável para crianças a partir dos 8 anos ', '').replace('’', '').replace('Kit de Construção ', '').replace(',', '').replace('–', '').replace('‎', '').replace('Lego', 'LEGO').replace('Placa de Construção ', '').replace('Pieces', 'peças').replace('pcs', 'peças').replace('pe as', 'peças').replace('Pecas', 'peças').replace('Placa de Construção ', '').replace('#', '').replace('│', '')
                 
                 # Extrair informacoes do preco
                 try:
@@ -80,6 +86,12 @@ class AmazonBrasil:
                 resultado2 = re.match(padrao2, info)
                 resultado3 = re.match(padrao3, info)
                 resultado4 = re.match(padrao4, info)
+                resultado5 = re.match(padrao5, info)
+                resultado6 = re.match(padrao6, info)
+                resultado7 = re.match(padrao7, info)
+                resultado8 = re.match(padrao8, info)
+                resultado9 = re.match(padrao9, info)
+                resultado10 = re.match(padrao10, info)
                 resultado_id_inicio = re.match(padrao_id_inicio, info)
                 # print(resultado, resultado_id_inicio)
 
@@ -110,6 +122,36 @@ class AmazonBrasil:
                     nome = 'LEGO ' + resultado4.group(2)
                     id_produto = resultado4.group(1)
                     quantidade_pecas = resultado4.group(3)
+                
+                elif resultado5:
+                    nome = 'LEGO ' + resultado5.group(2)
+                    id_produto = resultado5.group(1)
+                    quantidade_pecas = None
+                
+                elif resultado6:
+                    nome = 'LEGO ' + resultado6.group(1)
+                    id_produto = resultado6.group(2)
+                    quantidade_pecas = resultado6.group(3)
+                
+                elif resultado7:
+                    nome = 'LEGO ' + resultado7.group(1) + ' ' + resultado7.group(3)
+                    id_produto = resultado7.group(2)
+                    quantidade_pecas = None
+                
+                elif resultado8:
+                    nome = 'LEGO ' + resultado8.group(2)
+                    id_produto = resultado8.group(1)
+                    quantidade_pecas = None
+                
+                elif resultado9:
+                    nome = 'LEGO ' + resultado9.group(1) + ' ' + resultado9.group(2)
+                    id_produto = resultado9.group(3)
+                    quantidade_pecas = resultado9.group(4)
+                    
+                elif resultado10:
+                    nome = 'LEGO ' + resultado10.group(1) + ' ' + resultado10.group(2) + ' ' + resultado10.group(4)
+                    id_produto = resultado10.group(3)
+                    quantidade_pecas = resultado10.group(5)
                     
                 else:
                     nome = info
