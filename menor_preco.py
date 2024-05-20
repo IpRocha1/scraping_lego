@@ -12,7 +12,12 @@ with open('legos_bricklink.json', 'r', encoding='utf-8') as f:
 
 # Funcao para extrair a primeira parte do ID
 def extrair_id_basico(produto_id):
-    return produto_id.split('-')[0] if produto_id else None
+    if produto_id:
+        partes = produto_id.split('-')
+        id_basico = partes[0]
+        return id_basico
+    else:
+        return None
 
 # Funcao para atualizar "Num Pecas" se estiver faltando
 def atualizar_num_pecas(menor_produto, novo_produto):
